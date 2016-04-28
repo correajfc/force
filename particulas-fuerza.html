@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+<meta charset="utf-8">
+<title>Particulas fuerza</title>
+<!--Cargar Librerias javascript    -->
+<script src="js/libs/d3.js"></script>
+<script src="js/libs/jquery-1.12.2.js"></script>
+<script src="js/libs/prism.js"></script>
+
+<link rel="stylesheet" href="css/prism.css">    
+</head>
+
+<style>
+
+/*
+.node {
+    fill: red;
+    
+}  
+*/
+    
+.textinput{
+    width: 30px;
+}    
+</style>
+  
+    
+<!--Cuerpo    -->
+<body>
+<div id="cuerpo" >
+<h1>Partículas</h1>    
+<section id="dataviz">
+<div id="variables-control">
+
+<label for="gravedad">Gravedad:&nbsp;</label>
+<input id="gravity" class="slider" name="gravedad" type="range" min="0" max=".1" step="0.005" value="0">&nbsp;<input class="textinput" type="text" id="textgravity" value="0" >    
+
+<label for="carga">Carga:&nbsp;</label>
+<input id="charge" name="carga" type="range" min="-5" max="5" step="0.1" value="0">&nbsp;<input type="text" id="textcharge" value="0" class="textinput">
+    
+<label for="friccion">Fricción:&nbsp;</label>
+<input id="friction" name="friccion" type="range" min="0" max="1" step="0.05" value="0.98">&nbsp;<input type="text" id="textfriction" value="0.98" class="textinput"><br>
+
+<input type="reset" value="de nuevo" onclick="control_reset()">    
+</div>    
+<div id="grafico" ></div>
+</section>
+<section id="jscode">
+<pre><code class="language-javascript">
+    
+</code>
+</pre>
+</section>    
+
+</div>    
+</body>  
+<!--Pie-->
+<footer>
+</footer> 
+<script>
+//definicion inicializacion de variables globales del la configuracion del lienzo    
+var margin = {top: 0, right: 0, bottom: 0, left: 0},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var svg=d3.select("#grafico").append("svg")
+        .attr("width",width)
+        .attr("height",height);    
+
+var force=d3.layout.force()
+    .friction(0.98)
+    .gravity(0)
+    .charge(0)
+    .size([width,height]);
+force.on("tick", tick);
+
+
+//varieble slider gravedad
+var in_gravedad;
+//escuchar cambios en el control de gravedad
+d3.select("#gravity").on("input", function() {
+  in_gravedad=this.value;
+  d3.select("#textgravity").attr("value",in_gravedad);    
+  actualizargravedad(in_gravedad);
+});
+d3.select("#textgravity").on("input",function(){
+    in_gravedad=this.value;
+    d3.select("#gravity").attr("value",in_gravedad);
+    actualizargravedad(in_gravedad);
+});    
+//varieble slider gravedad
+var in_carga;
+//escuchar cambios en el control de carga
+d3.select("#charge").on("input", function() {
+  in_carga=this.value;
+  d3.select("#textcharge").attr("value",in_carga);    
+  actualizarcarga(in_carga);
+});    
+
+//varieble slider gravedad
+var in_friccion;    
+//escuchar cambios en el control de carga
+d3.select("#friction").on("input", function() {
+  in_friccion=this.value;
+  d3.select("#textfriction").attr("value",in_friccion);    
+  actualizarfriccion(in_friccion);
+});            
+    
+//momentum
+var p0;    
+    
+//cada que se mueva el mouse sobre el contenedor svg
+svg.on("mousemove", function() {
+  var p1 = d3.mouse(this),
+      node = {x: p1[0], y: p1[1], px: (p0 || (p0=p1))[0], py:p0[1]}//si p0 es null a p0 le asigna 
+  ;
+ p0=p1;    
+//console.log(node);
+  svg.append("circle")
+      .data([node])
+      .attr("class", "node")
+      .attr("cx", function(d) { return d.x; })
+      .attr("cy", function(d) { return d.y; })
+      .attr("r", 1e-6)
+      .attr("fill","red")
+    .transition()
+      .ease(Math.sqrt)
+      .attr("r", 4.5)
+    .transition() //transiscion de tamaño del radio y de color
+      .delay(4000) //tiempo de espra
+      .duration(2000) //duracion de la transiscion
+      .attr("r", 1e-3)
+      .attr("fill","blue") 
+      .each("end", function() { force.nodes().shift(); }) //remover el nodo
+      .remove();
+
+  force.nodes().push(node);
+  force.start();
+});
+
+//funciones    
+function actualizargravedad(sgravedad){
+    force.gravity(sgravedad);
+//    console.log(sgravedad);
+    force.start();
+    
+
+}
+function actualizarcarga(scarga){
+    force.charge(scarga);
+//    console.log(scarga);
+    force.start();
+
+}  
+function actualizarfriccion(sfriccion){
+    force.friction(sfriccion);
+//    console.log(scarga);
+    force.start();
+
+} 
+
+function tick() {
+  //
+svg.selectAll("circle")
+      .attr("cx", function(d) { return d.x; })
+      .attr("cy", function(d) { return d.y; });
+}    
+    
+
+</script>
+</html>    

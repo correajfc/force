@@ -1,0 +1,44 @@
+body {
+    margin: 0 auto;
+}
+
+#cuerpo {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.nodo{
+        opacity: 1;
+    
+    }
+    .nodo .cliquiado{
+    
+    opacity: 0.5;
+    }
+    .enlace{
+        stroke:lightgrey;
+    }
+#variables-control {
+    width: 960px;
+}
+
+#variables-control input[type="text"] {
+width: 40px;
+}
+
+#explicacion{
+width: 760px;
+margin: 0 auto;
+}
+
+
+#reheat {
+    width: 120px;
+}
+
+
+
+#jscode {
+    width: 760px;
+    margin: 0 auto;
+}

@@ -1,0 +1,843 @@
+tipo_productor,productor,ppi_ds,tipo_usuario,usuario,fuente
+INTERNO,Dagma,Administración del agua superficial de la ciudad de Santiago de Cali.,ACADEMIA,USC,F1
+INTERNO,Educación,Ambientes Escolares,ACADEMIA,UniValle,F1
+INTERNO,Educación,Ambientes Escolares,ACADEMIA,UAO,F1
+INTERNO,Educación,Apoyo Institucional,ACADEMIA,Instituciones Educativas,F1
+INTERNO,Bienestar,Atención de los C.A.L.I.S.,ACADEMIA,Javeriana,F1
+INTERNO,Bienestar,Atención de los C.A.L.I.S.,ACADEMIA,Icesi,F1
+INTERNO,Planeación,Cali en cifras,ACADEMIA,UniValle,F1
+INTERNO,Planeación,Cali en cifras,ACADEMIA,investigadores,F1
+INTERNO,General,Caracterización de los Jueces de paz y Jueces de Reconsideración del Municipio de Santiago de Cali,ACADEMIA,Universidades,F1
+INTERNO,Gobierno,Casos Atendidos por Comisaría de Familia,ACADEMIA,Universidades,F1
+INTERNO,Salud,"CENTINELA: monitoreo a hospitalizaciones de niños y niñas menores de 5 años en las IPS Comfenalco Valle, Hospital infantil Club Noel y Comfandi Tequendama.",ACADEMIA,Universidad Libre,F1
+INTERNO,Salud,"CENTINELA: monitoreo a hospitalizaciones de niños y niñas menores de 5 años en las IPS Comfenalco Valle, Hospital infantil Club Noel y Comfandi Tequendama.",ACADEMIA,estudiantes de Epidemiología,F1
+INTERNO,Dagma,Control del agua superficial de la ciudad de Santiago de Cali.,ACADEMIA,USC,F1
+INTERNO,Planeación,Cuentas Municipales,ACADEMIA,Universidades,F1
+INTERNO,Planeación,Cuentas Municipales,ACADEMIA,Centros de Investigacion,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,ACADEMIA,UniValle,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,ACADEMIA,Icesi,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,ACADEMIA,Javeriana,F1
+INTERNO,Gobierno,Delitos contra la vida,ACADEMIA,UniValle,F1
+INTERNO,Gobierno,Delitos contra la vida,ACADEMIA,Icesi,F1
+INTERNO,Gobierno,Delitos contra la vida,ACADEMIA,Javeriana,F1
+INTERNO,Bienestar,Discapacidad,ACADEMIA,Universidades,F1
+INTERNO,Salud,Ejecución Presupuestal Plan Operativo Anual de Inversiones,ACADEMIA,UniValle,F1
+INTERNO,General,Estadísticas del Programa Municipal de atención a víctimas,ACADEMIA,Universidades,F1
+INTERNO,Salud,Gestión para la prestación de servicios de salud a la población pobre no asegurada,ACADEMIA,UniValle,F1
+INTERNO,Tránsito,Grupo de investigación y criminalística,ACADEMIA,UniValle,F1
+INTERNO,Dagma,Intervención de zonas verdes y espacio públicos,ACADEMIA,Universidades,F1
+INTERNO,Planeación,Licencia de Intervencion y Ocupacion del Espacio Publico,ACADEMIA,Universidades,F1
+INTERNO,Salud,Natalidad y Mortalidad,ACADEMIA,Universidades,F1
+INTERNO,Educación,Observatorio de la Educación,ACADEMIA,UniValle,F1
+INTERNO,Educación,Observatorio de la Educación,ACADEMIA,SENA,F1
+INTERNO,Tránsito,Programas en el área de Educación y Cultura ,ACADEMIA,UniValle,F1
+INTERNO,Tránsito,Programas en el área de Educación y Cultura ,ACADEMIA,Javeriana,F1
+INTERNO,Planeación,Proyecciones de población,ACADEMIA,UniValle,F1
+INTERNO,Planeación,Proyecciones de población,ACADEMIA,Universidades,F1
+INTERNO,Tránsito,Regulación de tránsito,ACADEMIA,UniValle,F1
+INTERNO,Dagma,Regulación del agua superficial de la ciudad de Santiago de Cali.,ACADEMIA,USC,F1
+INTERNO,Tránsito,Seguimiento a la cartera morosa de multas de transito,ACADEMIA,Icesi,F1
+INTERNO,Cultura y turismo,"Seguimiento, control y análisis del Desarrollo de Festivales (Petronio Álvarez y Mundial de Salsa)",ACADEMIA,UniValle,F1
+INTERNO,Tránsito,"Señalización, Demarcación y Semaforización Vial ",ACADEMIA,UniValle,F1
+INTERNO,Planeación,Sisben,ACADEMIA,Universidades,F1
+INTERNO,Dagma,Sistema de Vigilancia de Calidad del Aire de Santiago de Cali,ACADEMIA,UniValle,F1
+INTERNO,Dagma,Sistema de Vigilancia de Calidad del Aire de Santiago de Cali,ACADEMIA,Javeriana,F1
+INTERNO,Salud,SISVAN: sistema de vigilancia alimentaria y nutricional,ACADEMIA,Universidades,F1
+INTERNO,Tránsito,Tasa de Accidentalidad,ACADEMIA,Universidades,F1
+INTERNO,Tránsito,Tasa de Accidentalidad,ACADEMIA,UniValle,F1
+INTERNO,Tránsito,Tasa de Accidentalidad,ACADEMIA,Icesi,F1
+INTERNO,Tránsito,Tasa de Accidentalidad,ACADEMIA,Javeriana,F1
+INTERNO,Cultura y turismo,Usuarios archivo histórico,ACADEMIA,UniValle,F1
+INTERNO,Cultura y turismo,Usuarios archivo histórico,ACADEMIA,Universidades,F1
+INTERNO,Cultura y turismo,Usuarios archivo histórico,ACADEMIA,instituciones de formación técnica y tecnológica,F1
+INTERNO,Cultura y turismo,Usuarios archivo histórico,ACADEMIA,Instituciones Educativas,F1
+INTERNO,Educación,Evalución de desempeño de los docentes ,ACADEMIA,Instituciones Educativas,F1
+INTERNO,Educación,Proceso de selección de candidatos a cubrir vacantes provisionales,ACADEMIA,Instituciones Educativas,F1
+INTERNO,Salud,Seguiminetos a las acciones pedagogicas que promueven el aumento de consumo de frutas y verduras,ACADEMIA,Instituciones Educativas,F1
+INTERNO,Educación," Aprobación de establecimientos educativos por creación, apertura o cambio de sede,  ampliación o disminución de niveles o modalidad",ACADEMIA,Instituciones Educativas,F1
+INTERNO,Salud,Natalidad y Mortalidad,ACADEMIA,Instituciones Educativas,F1
+INTERNO,Educación,Observatorio de la Educación,ACADEMIA,Instituciones Educativas,F1
+INTERNO,Tránsito,Programas en el área de Educación y Cultura ,ACADEMIA,Instituciones Educativas,F1
+INTERNO,Dagma,Vigilancia y Control a las nuevas construcciones,ACADEMIA,Universidades,F1
+INTERNO,Educación,"Aplicación, análisis y uso de los resultados de la evaluación a estudiantes de los ciclos  3, 5, 9, 11 las instituciones oficiales de Cali",ACADEMIA,Instituciones Educativas,F1
+INTERNO,Educación,Observatorio de la Educación,ACADEMIA,Instituciones Educativas,F1
+INTERNO,Salud,Estrategia escuelas Saludables,ACADEMIA,Instituciones Educativas,F1
+INTERNO,Planeación,Cuentas Municipales,DEP_ADMIN,DANE,F1
+INTERNO,Bienestar,Discapacidad,DEP_ADMIN,DNP,F1
+INTERNO,Planeación,Estratificación Socioeconómica – AREA URBANA MUNICIPIO DE SANTIAGO DE CALI- (22 Comunas de la ciudad) METODOLOGIA TIPO 1.,DEP_ADMIN,DNP,F1
+INTERNO,Planeación,Estratificación Socioeconómica – AREA URBANA MUNICIPIO DE SANTIAGO DE CALI- (22 Comunas de la ciudad) METODOLOGIA TIPO 1.,DEP_ADMIN,DANE,F1
+INTERNO,Planeación,Estratificación Socioeconómica – Centros Poblados ubicados en las  Cabeceras de los 15 Corregimientos del Municipio de Cali. –Metodología Tipo III.,DEP_ADMIN,DNP,F1
+INTERNO,Planeación,Estratificación Socioeconómica – Centros Poblados ubicados en las  Cabeceras de los 15 Corregimientos del Municipio de Cali. –Metodología Tipo III.,DEP_ADMIN,DANE,F1
+INTERNO,Planeación,Estratificación socioeconómica cabecera corregimiento Montebello-METODOLOGIA TIPO II,DEP_ADMIN,DNP,F1
+INTERNO,Planeación,Estratificación socioeconómica cabecera corregimiento Montebello-METODOLOGIA TIPO II,DEP_ADMIN,DANE,F1
+INTERNO,Planeación,Estratificación socioeconómica Centros Poblados Especiales- Metodología para Centros Poblados Especiales.,DEP_ADMIN,DNP,F1
+INTERNO,Vivienda,indicadores de gestion,DEP_ADMIN,DANE,F1
+INTERNO,Salud,Natalidad y Mortalidad,DEP_ADMIN,DANE,F1
+INTERNO,Educación,Proceso de selección de candidatos a cubrir vacantes provisionales,DEP_ADMIN,DAFP,F1
+INTERNO,Cultura y turismo,"Seguimiento, control y análisis del Desarrollo de Festivales (Petronio Álvarez y Mundial de Salsa)",DEP_ADMIN,DAS,F1
+INTERNO,Bienestar,Discapacidad,DEP_ADMIN,DANE,F1
+INTERNO,Educación," Aprobación de establecimientos educativos por creación, apertura o cambio de sede,  ampliación o disminución de niveles o modalidad",DEP_ADMIN,DANE,F1
+INTERNO,Planeación,Estratificación socioeconómica Centros Poblados Especiales- Metodología para Centros Poblados Especiales.,DEP_ADMIN,DANE,F1
+INTERNO,Dagma,Administración del agua subterránea de la ciudad de Santiago de Cali,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Dagma,Administración del agua subterránea de la ciudad de Santiago de Cali,ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,Administración del agua superficial de la ciudad de Santiago de Cali.,ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,Administración del agua superficial de la ciudad de Santiago de Cali.,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Dagma,Administración del agua superficial de la ciudad de Santiago de Cali.,ENTE_CONTROL,Fiscalía,F1
+INTERNO,Dagma,Administración del agua superficial de la ciudad de Santiago de Cali.,ENTE_CONTROL,Personería,F1
+INTERNO,Educación,Alimentación escolar,ENTE_CONTROL,Contraloría,F1
+INTERNO,Educación,Alimentación escolar,ENTE_CONTROL,Personería,F1
+INTERNO,Educación,Alimentación escolar,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Educación,Alimentación escolar,ENTE_CONTROL,Auditoría,F1
+INTERNO,Educación,Ambientes Escolares,ENTE_CONTROL,Contraloría,F1
+INTERNO,Educación,Ambientes Escolares,ENTE_CONTROL,Personería,F1
+INTERNO,Salud,Aplicativo base de datos institucionales de inscripción y control a los programas de hipertensión arterial (HTA) y diabetes mellitus (DM),ENTE_CONTROL,Personería,F1
+INTERNO,Salud,Aplicativo base de datos institucionales de inscripción y control a los programas de hipertensión arterial (HTA) y diabetes mellitus (DM),ENTE_CONTROL,Procuraduría,F1
+INTERNO,Salud,Aplicativo base de datos institucionales de inscripción y control a los programas de hipertensión arterial (HTA) y diabetes mellitus (DM),ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,Aprovechamiento de árboles aislados,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Dagma,Aprovechamiento de árboles aislados,ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,Aprovechamiento de árboles aislados,ENTE_CONTROL,Personería,F1
+INTERNO,Bienestar,Atención de los C.A.L.I.S.,ENTE_CONTROL,Personería,F1
+INTERNO,Bienestar,Atención de los C.A.L.I.S.,ENTE_CONTROL,Contraloría,F1
+INTERNO,Salud,Auditoría al régimen subsidiado,ENTE_CONTROL,Superintendecia Nacional de Salud,F1
+INTERNO,Salud,Auditoría al régimen subsidiado,ENTE_CONTROL,Contraloría,F1
+INTERNO,Cultura y turismo,Beneficiarios del Estudio de Grabación Takeshima,ENTE_CONTROL,Contraloría,F1
+INTERNO,Planeación,Cali en cifras,ENTE_CONTROL,Contraloría,F1
+INTERNO,Planeación,Cali en cifras,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Dagma,Concepto Técnico de Manejo Silvicultural Arbóreo de Proyectos Urbanisticos en Santiago de Cali,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Dagma,Concepto Técnico de Manejo Silvicultural Arbóreo de Proyectos Urbanisticos en Santiago de Cali,ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,Concepto Técnico de Manejo Silvicultural Arbóreo de Proyectos Urbanisticos en Santiago de Cali,ENTE_CONTROL,Personería,F1
+INTERNO,Dagma,Control del agua superficial de la ciudad de Santiago de Cali.,ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,Control del agua superficial de la ciudad de Santiago de Cali.,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Dagma,Control del agua superficial de la ciudad de Santiago de Cali.,ENTE_CONTROL,Fiscalía,F1
+INTERNO,Dagma,Control del agua superficial de la ciudad de Santiago de Cali.,ENTE_CONTROL,Personería,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,ENTE_CONTROL,Fiscalía,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,ENTE_CONTROL,Defensoría del Pueblo,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,ENTE_CONTROL,Personería,F1
+INTERNO,Gobierno,Delitos contra la vida,ENTE_CONTROL,Fiscalía,F1
+INTERNO,Gobierno,Delitos contra la vida,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Gobierno,Delitos contra la vida,ENTE_CONTROL,Defensoría del Pueblo,F1
+INTERNO,Gobierno,Delitos contra la vida,ENTE_CONTROL,Personería,F1
+INTERNO,Hacienda,"determinacion y liquidacion del impuesto de las diferentes rentas municipales (predian unificado, industria y comercio y rentas varias) Gestión Fiscal, Contable y Financiera",ENTE_CONTROL,Personería,F1
+INTERNO,Hacienda,"determinacion y liquidacion del impuesto de las diferentes rentas municipales (predian unificado, industria y comercio y rentas varias) Gestión Fiscal, Contable y Financiera",ENTE_CONTROL,Contraloría,F1
+INTERNO,Salud,Ejecución Presupuestal Plan Operativo Anual de Inversiones,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Salud,Ejecución Presupuestal Plan Operativo Anual de Inversiones,ENTE_CONTROL,Contraloría,F1
+INTERNO,Salud,Ejecución Presupuestal Plan Operativo Anual de Inversiones,ENTE_CONTROL,Veedores Municipales,F1
+INTERNO,General,Estadísticas del Programa Municipal de atención a víctimas,ENTE_CONTROL,Personería,F1
+INTERNO,General,Estadísticas del Programa Municipal de atención a víctimas,ENTE_CONTROL,Procuraduría,F1
+INTERNO,General,Estadísticas del Programa Municipal de atención a víctimas,ENTE_CONTROL,Contraloría,F1
+INTERNO,Educación,Evalución de desempeño de los docentes ,ENTE_CONTROL,Contraloría,F1
+INTERNO,Educación,Evalución de desempeño de los docentes ,ENTE_CONTROL,Personería,F1
+INTERNO,Educación,Gestión de la Matricula,ENTE_CONTROL,Contraloría,F1
+INTERNO,Educación,Gestión de la Matricula,ENTE_CONTROL,Personería,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Cartografía,ENTE_CONTROL,Contraloría,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Cartografía,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Mitigación de Riesgo,ENTE_CONTROL,Contraloría,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Mitigación de Riesgo,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Titulación de Predios,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Titulación de Predios,ENTE_CONTROL,Contraloría,F1
+INTERNO,Salud,Gestión para la prestación de servicios de salud a la población pobre no asegurada,ENTE_CONTROL,Contraloría,F1
+INTERNO,Tránsito,Grupo de investigación y criminalística,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Tránsito,Grupo de investigación y criminalística,ENTE_CONTROL,Defensoría del Pueblo,F1
+INTERNO,Planeación,Indicadores de Amenazas y gestión de Riesgos Naturales,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Planeación,Indicadores de Amenazas y gestión de Riesgos Naturales,ENTE_CONTROL,Personería,F1
+INTERNO,Vivienda,indicadores de gestion,ENTE_CONTROL,Contraloría,F1
+INTERNO,Vivienda,indicadores de gestion,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Hacienda,Indicadores de gestión,ENTE_CONTROL,Contraloría,F1
+INTERNO,Vivienda,Indicadores de Gestión en Mejoramiento de Vivienda,ENTE_CONTROL,Contraloría,F1
+INTERNO,Vivienda,Indicadores de Gestión en Mejoramiento de Vivienda,ENTE_CONTROL,Personería,F1
+INTERNO,Bienestar,"Información de los dignatarios de organismos comunales de juntas de acción comunal, asocianones y federeación municipal",ENTE_CONTROL,Personería,F1
+INTERNO,Bienestar,"Información de los dignatarios de organismos comunales de juntas de acción comunal, asocianones y federeación municipal",ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,Licencia  Ambiental en Santiago de Cali,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Dagma,Licencia  Ambiental en Santiago de Cali,ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,Licencia  Ambiental en Santiago de Cali,ENTE_CONTROL,Personería,F1
+INTERNO,Planeación,Licencia de Intervencion y Ocupacion del Espacio Publico,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Planeación,Licencia de Intervencion y Ocupacion del Espacio Publico,ENTE_CONTROL,Contraloría,F1
+INTERNO,Vivienda,Modulo subsidios,ENTE_CONTROL,Contraloría,F1
+INTERNO,Vivienda,Modulo subsidios,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Vivienda,Modulo subsidios,ENTE_CONTROL,Personería,F1
+INTERNO,Vivienda,Modulo subsidios,ENTE_CONTROL,Fiscalía,F1
+INTERNO,Dagma,Monitoreo al recurso hídrico,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Dagma,Monitoreo al recurso hídrico,ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,"Monitoreo, Vigilancia y control del ruido en la Ciudad de Santiago de Cali",ENTE_CONTROL,Contraloría,F1
+INTERNO,Salud,Morbilidad de enfermedades prevalentes de la infancia,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Salud,Morbilidad de enfermedades prevalentes de la infancia,ENTE_CONTROL,Contraloría,F1
+INTERNO,Salud,Natalidad y Mortalidad,ENTE_CONTROL,Fiscalía,F1
+INTERNO,Educación,Observatorio de la Educación,ENTE_CONTROL,Contraloría,F1
+INTERNO,Educación,Observatorio de la Educación,ENTE_CONTROL,Personería,F1
+INTERNO,Dagma,Permiso de Emisión Atmosférica para Fuentes Fijas en Santiago de Cali,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Dagma,Permiso de Emisión Atmosférica para Fuentes Fijas en Santiago de Cali,ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,Permiso de Emisión Atmosférica para Fuentes Fijas en Santiago de Cali,ENTE_CONTROL,Personería,F1
+INTERNO,Control Disciplinario,Planeación institucional,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Planeación,Planes parciales,ENTE_CONTROL,Contraloría,F1
+INTERNO,Educación,Proceso de selección de candidatos a cubrir vacantes provisionales,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Educación,Proceso de selección de candidatos a cubrir vacantes provisionales,ENTE_CONTROL,Contraloría,F1
+INTERNO,Jurídica,Procesos Judiciales,ENTE_CONTROL,Contraloría,F1
+INTERNO,Salud,Programa de residuos solidos hospitalarios,ENTE_CONTROL,Contraloría,F1
+INTERNO,Tránsito,Programas en el área de Educación y Cultura ,ENTE_CONTROL,Contraloría,F1
+INTERNO,Tránsito,Programas en el área de Educación y Cultura ,ENTE_CONTROL,Personería,F1
+INTERNO,Dagma,Prospección del agua subterránea de la ciudad de Santiago de Cali,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Dagma,Prospección del agua subterránea de la ciudad de Santiago de Cali,ENTE_CONTROL,Contraloría,F1
+INTERNO,Planeación,Proyecciones de población,ENTE_CONTROL,Contraloría,F1
+INTERNO,Planeación,Proyecciones de población,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Dagma,Regulación a la exhibición de especímenes de la diversidad biológica en Santiago de Cali,ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,Regulación al aprovechamiento de los especímenes de la diversidad biológica en Santiago de Cali,ENTE_CONTROL,Contraloría,F1
+INTERNO,Tránsito,Regulación de tránsito,ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,Regulación del agua superficial de la ciudad de Santiago de Cali.,ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,Regulación del agua superficial de la ciudad de Santiago de Cali.,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Dagma,Regulación del agua superficial de la ciudad de Santiago de Cali.,ENTE_CONTROL,Fiscalía,F1
+INTERNO,Dagma,Regulación del agua superficial de la ciudad de Santiago de Cali.,ENTE_CONTROL,Personería,F1
+INTERNO,Salud,Riesgo del consumo de alimentos,ENTE_CONTROL,Contraloría,F1
+INTERNO,Salud,Riesgo del consumo de alimentos,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Tránsito,Seguimiento a la cartera morosa de multas de transito,ENTE_CONTROL,Contraloría,F1
+INTERNO,Bienestar,Seguimiento a la planeación económica y social,ENTE_CONTROL,Contraloría,F1
+INTERNO,Bienestar,Seguimiento a la planeación económica y social,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Bienestar,Seguimiento a la planeación económica y social,ENTE_CONTROL,Personería,F1
+INTERNO,Cultura y turismo,"Seguimiento, control y análisis del Desarrollo de Festivales (Petronio Álvarez y Mundial de Salsa)",ENTE_CONTROL,Contraloría,F1
+INTERNO,Cultura y turismo,"Seguimiento, control y análisis del Desarrollo de Festivales (Petronio Álvarez y Mundial de Salsa)",ENTE_CONTROL,Personería,F1
+INTERNO,Tránsito,"Señalización, Demarcación y Semaforización Vial ",ENTE_CONTROL,Procuraduría,F1
+INTERNO,Tránsito,"Señalización, Demarcación y Semaforización Vial ",ENTE_CONTROL,Contraloría,F1
+INTERNO,Tránsito,"Señalización, Demarcación y Semaforización Vial ",ENTE_CONTROL,Personería,F1
+INTERNO,Dagma,Sistema de Vigilancia de Calidad del Aire de Santiago de Cali,ENTE_CONTROL,Contraloría,F1
+INTERNO,Dagma,Sistema de Vigilancia de Calidad del Aire de Santiago de Cali,ENTE_CONTROL,Procuraduría,F1
+INTERNO,Dagma,Sistema de Vigilancia de Calidad del Aire de Santiago de Cali,ENTE_CONTROL,Personería,F1
+INTERNO,Salud,SISVAN: sistema de vigilancia alimentaria y nutricional,ENTE_CONTROL,Contraloría,F1
+INTERNO,Salud,SISVAN: sistema de vigilancia alimentaria y nutricional,ENTE_CONTROL,Personería,F1
+INTERNO,Educación,Transporte escolar,ENTE_CONTROL,Contraloría,F1
+INTERNO,Tránsito,Grupo de investigación y criminalística,ENTE_CONTROL,Fiscalía,F1
+INTERNO,Hacienda,"determinacion y liquidacion del impuesto de las diferentes rentas municipales (predian unificado, industria y comercio y rentas varias) Gestión Fiscal, Contable y Financiera",ENTE_CONTROL,Veedores Municipales,F1
+INTERNO,Salud,Estrategia escuelas Saludables,ENTE_CONTROL,Veedores Municipales,F1
+INTERNO,Planeación,Estratificación Socioeconómica – AREA URBANA MUNICIPIO DE SANTIAGO DE CALI- (22 Comunas de la ciudad) METODOLOGIA TIPO 1.,ENTE_CONTROL,SUPER INTENDENCIA DE SERVICIOS PUBLICOS DOMICILIARIOS,F1
+INTERNO,Planeación,Estratificación Socioeconómica – Centros Poblados ubicados en las  Cabeceras de los 15 Corregimientos del Municipio de Cali. –Metodología Tipo III.,ENTE_CONTROL,SUPER INTENDENCIA DE SERVICIOS PUBLICOS DOMICILIARIOS,F1
+INTERNO,Planeación,Estratificación socioeconómica cabecera corregimiento Montebello-METODOLOGIA TIPO II,ENTE_CONTROL,SUPER INTENDENCIA DE SERVICIOS PUBLICOS DOMICILIARIOS,F1
+INTERNO,Control Disciplinario,Planeación institucional,ENTE_CONTROL,Personería,F1
+INTERNO,Salud,Cobertura Util de Vacunación,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Hacienda,"determinacion y liquidacion del impuesto de las diferentes rentas municipales (predian unificado, industria y comercio y rentas varias) Gestión Fiscal, Contable y Financiera",ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Salud,Natalidad y Mortalidad,ENTIDAD_AUTONOMA,Registraduria,F1
+INTERNO,Salud,Natalidad y Mortalidad,ENTIDAD_AUTONOMA,Medicina Legal,F1
+INTERNO,Dagma,Administración del agua superficial de la ciudad de Santiago de Cali.,ENTIDAD_AUTONOMA,CVC,F1
+INTERNO,Bienestar,"Asistencia Tecnica directa Rural agropecuaria, ambiental , forestal y pesquero",ENTIDAD_AUTONOMA,Cámara de Comercio,F1
+INTERNO,Bienestar,"Asistencia Tecnica directa Rural agropecuaria, ambiental , forestal y pesquero",ENTIDAD_AUTONOMA,CVC,F1
+INTERNO,Planeación,Cali en cifras,ENTIDAD_AUTONOMA,CVC,F1
+INTERNO,Dagma,Control del agua superficial de la ciudad de Santiago de Cali.,ENTIDAD_AUTONOMA,CVC,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Gobierno,Delitos contra la vida,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Planeación,Licencia de Intervencion y Ocupacion del Espacio Publico,ENTIDAD_AUTONOMA,CVC,F1
+INTERNO,Planeación,Proyecciones de población,ENTIDAD_AUTONOMA,CVC,F1
+INTERNO,Dagma,Regulación del agua superficial de la ciudad de Santiago de Cali.,ENTIDAD_AUTONOMA,CVC,F1
+INTERNO,Salud,Sistema de Vigilancia Epidemiológica en Salud Ambiental – SISVEA,ENTIDAD_AUTONOMA,CVC,F1
+INTERNO,Salud,estilos de vida saludables y seguridad alimentaria y nutricional,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Gobierno,Acta de visita a establecimientos comerciales ,ENTIDAD_AUTONOMA,Cámara de Comercio,F1
+INTERNO,Bienestar,Atención de los C.A.L.I.S.,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,General,Caracterización de los Jueces de paz y Jueces de Reconsideración del Municipio de Santiago de Cali,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Salud,Ejecución Presupuestal Plan Operativo Anual de Inversiones,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Mitigación de Riesgo,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Titulación de Predios,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Planeación,Indicadores de Amenazas y gestión de Riesgos Naturales,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Hacienda,Indicadores de gestión,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Vivienda,Indicadores de Gestión en Mejoramiento de Vivienda,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Dagma,Intervención de zonas verdes y espacio públicos,ENTIDAD_AUTONOMA,Cámara de Comercio,F1
+INTERNO,Salud,Morbilidad de enfermedades prevalentes de la infancia,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Gobierno,Oficina de convivencia,ENTIDAD_AUTONOMA,Cámara de Comercio,F1
+INTERNO,Jurídica,Procesos Judiciales,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Salud,Programa de residuos solidos hospitalarios,ENTIDAD_AUTONOMA,Concejo de Cali,F1
+INTERNO,Dagma,Administración del agua superficial de la ciudad de Santiago de Cali.,INTERNO,Planeación,F1
+INTERNO,Bienestar,"Asistencia Tecnica directa Rural agropecuaria, ambiental , forestal y pesquero",INTERNO,Planeación,F1
+INTERNO,Dagma,Control del agua superficial de la ciudad de Santiago de Cali.,INTERNO,Planeación,F1
+INTERNO,Dagma,Intervención de zonas verdes y espacio públicos,INTERNO,Planeación,F1
+INTERNO,Planeación,Planes parciales,INTERNO,Hacienda,F1
+INTERNO,Tránsito,Programas en el área de Educación y Cultura ,INTERNO,Planeación,F1
+INTERNO,Dagma,Regulación del agua superficial de la ciudad de Santiago de Cali.,INTERNO,Planeación,F1
+INTERNO,Salud,Riesgo del consumo de alimentos,INTERNO,Planeación,F1
+INTERNO,Tránsito,Seguimiento a la cartera morosa de multas de transito,INTERNO,Hacienda,F1
+INTERNO,Bienestar,Seguimiento a la planeación económica y social,INTERNO,Planeación,F1
+INTERNO,Salud,Sistema de Vigilancia Epidemiológica en Salud Ambiental – SISVEA,INTERNO,Dagma,F1
+INTERNO,Salud,Sistema de Vigilancia Epidemiológica en Salud Ambiental – SISVEA,INTERNO,Planeación,F1
+INTERNO,Dagma,Vigilancia y Control a las nuevas construcciones,INTERNO,Planeación,F1
+INTERNO,Vivienda,indicadores de gestion,INTERNO,Control Interno,F1
+INTERNO,Jurídica,Procesos Judiciales,INTERNO,Control Interno,F1
+INTERNO,Educación," Aprobación de establecimientos educativos por creación, apertura o cambio de sede,  ampliación o disminución de niveles o modalidad",INTERNO,Educación,F1
+INTERNO,Educación," Aprobación de establecimientos educativos por creación, apertura o cambio de sede,  ampliación o disminución de niveles o modalidad",INTERNO,Hacienda,F1
+INTERNO,Gobierno,Acta de visita a establecimientos comerciales ,INTERNO,Gobierno,F1
+INTERNO,Gobierno,Acta de visita a establecimientos comerciales ,INTERNO,Gobierno,F1
+INTERNO,Gobierno,Acta de visita a establecimientos comerciales ,INTERNO,Gobierno,F1
+INTERNO,Educación,Alimentación escolar,INTERNO,Educación,F1
+INTERNO,Educación,Alimentación escolar,INTERNO,Despacho Alcalde,F1
+INTERNO,Educación,Alimentación escolar,INTERNO,Planeación,F1
+INTERNO,Educación,Alimentación escolar,INTERNO,Salud,F1
+INTERNO,Educación,Ambientes Escolares,INTERNO,Planeación,F1
+INTERNO,Educación,Ambientes Escolares,INTERNO,Planeación,F1
+INTERNO,Educación,Ambientes Escolares,INTERNO,Hacienda,F1
+INTERNO,Educación,Ambientes Escolares,INTERNO,Administrativo,F1
+INTERNO,Salud,Aplicativo base de datos institucionales de inscripción y control a los programas de hipertensión arterial (HTA) y diabetes mellitus (DM),INTERNO,Salud,F1
+INTERNO,Educación,Apoyo Institucional,INTERNO,Educación,F1
+INTERNO,Dagma,Aprovechamiento de árboles aislados,INTERNO,Dagma,F1
+INTERNO,Gobierno,Armas y estupefacientes,INTERNO,Despacho Alcalde,F1
+INTERNO,Gobierno,Armas y estupefacientes,INTERNO,Gobierno,F1
+INTERNO,Salud,Aseguramiento: Régimen subsidiado y susceptible de afiliación,INTERNO,Salud,F1
+INTERNO,Salud,Aseguramiento: Régimen subsidiado y susceptible de afiliación,INTERNO,Salud,F1
+INTERNO,General,Atención al ususario,INTERNO,Todas las Dependencias,F1
+INTERNO,Bienestar,Atención de los C.A.L.I.S.,INTERNO,Bienestar,F1
+INTERNO,Bienestar,Atención de los C.A.L.I.S.,INTERNO,Gobierno,F1
+INTERNO,Bienestar,Atención de los C.A.L.I.S.,INTERNO,Hacienda,F1
+INTERNO,Bienestar,Atención de los C.A.L.I.S.,INTERNO,General,F1
+INTERNO,Dagma,Auditoría a la información producida por los Centros de Diagnóstico Automotor (CDA) en Santiago de Cali,INTERNO,Dagma,F1
+INTERNO,Planeación,Banco de proyectos,INTERNO,Todas las Dependencias,F1
+INTERNO,Cultura y turismo,Beneficiarios del Estudio de Grabación Takeshima,INTERNO,Cultura y turismo,F1
+INTERNO,Planeación,Cali en cifras,INTERNO,Planeación,F1
+INTERNO,Planeación,Cali en cifras,INTERNO,Hacienda,F1
+INTERNO,Planeación,Cali en cifras,INTERNO,Deporte,F1
+INTERNO,Planeación,Cali en cifras,INTERNO,Educación,F1
+INTERNO,Planeación,Cali en cifras,INTERNO,Salud,F1
+INTERNO,Planeación,Cali en cifras,INTERNO,Tránsito,F1
+INTERNO,Planeación,Cali en cifras,INTERNO,Bienestar,F1
+INTERNO,Planeación,Cali en cifras,INTERNO,Gobierno,F1
+INTERNO,General,Caracterización de los Jueces de paz y Jueces de Reconsideración del Municipio de Santiago de Cali,INTERNO,General,F1
+INTERNO,General,Caracterización de usuarios,INTERNO,Todas las Dependencias,F1
+INTERNO,Gobierno,Casos Atendidos por Comisaría de Familia,INTERNO,Gobierno,F1
+INTERNO,Gobierno,Casos atendidos por Inspección de policía rural o de corregimiento,INTERNO,Gobierno,F1
+INTERNO,Salud,"CENTINELA: monitoreo a hospitalizaciones de niños y niñas menores de 5 años en las IPS Comfenalco Valle, Hospital infantil Club Noel y Comfandi Tequendama.",INTERNO,Salud,F1
+INTERNO,Salud,Centro de Zoonosis de la SSPM,INTERNO,Salud,F1
+INTERNO,Salud,Centro de Zoonosis de la SSPM,INTERNO,Salud,F1
+INTERNO,Salud,Centro de Zoonosis de la SSPM,INTERNO,Salud,F1
+INTERNO,Salud,Cobertura Util de Vacunación,INTERNO,Salud,F1
+INTERNO,Dagma,Concepto Técnico de Manejo Silvicultural Arbóreo de Proyectos Urbanisticos en Santiago de Cali,INTERNO,Dagma,F1
+INTERNO,Planeación,Cuentas Municipales,INTERNO,Todas las Dependencias,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,INTERNO,Despacho Alcalde,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,INTERNO,Gobierno,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,INTERNO,Gobierno,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,INTERNO,Gobierno,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,INTERNO,Gobierno,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,INTERNO,Gobierno,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,INTERNO,Salud,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,INTERNO,Planeación,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,INTERNO,Planeación,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,INTERNO,Tránsito,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,INTERNO,Bienestar,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,INTERNO,Consejo Municipal para Gestión del Riesgo y Desastres,F1
+INTERNO,Gobierno,Delitos contra la vida,INTERNO,Despacho Alcalde,F1
+INTERNO,Gobierno,Delitos contra la vida,INTERNO,Gobierno,F1
+INTERNO,Gobierno,Delitos contra la vida,INTERNO,Gobierno,F1
+INTERNO,Gobierno,Delitos contra la vida,INTERNO,Gobierno,F1
+INTERNO,Gobierno,Delitos contra la vida,INTERNO,Gobierno,F1
+INTERNO,Gobierno,Delitos contra la vida,INTERNO,Gobierno,F1
+INTERNO,Gobierno,Delitos contra la vida,INTERNO,Salud,F1
+INTERNO,Gobierno,Delitos contra la vida,INTERNO,Planeación,F1
+INTERNO,Gobierno,Delitos contra la vida,INTERNO,Planeación,F1
+INTERNO,Gobierno,Delitos contra la vida,INTERNO,Tránsito,F1
+INTERNO,Gobierno,Delitos contra la vida,INTERNO,Bienestar,F1
+INTERNO,Gobierno,Delitos contra la vida,INTERNO,Consejo Municipal para Gestión del Riesgo y Desastres,F1
+INTERNO,Bienestar,Discapacidad,INTERNO,Bienestar,F1
+INTERNO,Salud,Ejecución Presupuestal Plan Operativo Anual de Inversiones,INTERNO,Salud,F1
+INTERNO,General,Estadísticas del Programa Municipal de atención a víctimas,INTERNO,Todas las Dependencias,F1
+INTERNO,Salud,estilos de vida saludables y seguridad alimentaria y nutricional,INTERNO,Salud,F1
+INTERNO,Salud,Estrategia de atención primaria en salud,INTERNO,Salud,F1
+INTERNO,Salud,Estrategia de atención primaria en salud,INTERNO,Comité interinstitucional,F1
+INTERNO,Salud,Estrategia escuelas Saludables,INTERNO,Salud,F1
+INTERNO,Planeación,Estratificación Socioeconómica – AREA URBANA MUNICIPIO DE SANTIAGO DE CALI- (22 Comunas de la ciudad) METODOLOGIA TIPO 1.,INTERNO,Planeación,F1
+INTERNO,Planeación,Estratificación Socioeconómica – AREA URBANA MUNICIPIO DE SANTIAGO DE CALI- (22 Comunas de la ciudad) METODOLOGIA TIPO 1.,INTERNO,Planeación,F1
+INTERNO,Planeación,Estratificación Socioeconómica – Centros Poblados ubicados en las  Cabeceras de los 15 Corregimientos del Municipio de Cali. –Metodología Tipo III.,INTERNO,Planeación,F1
+INTERNO,Planeación,Estratificación Socioeconómica – Centros Poblados ubicados en las  Cabeceras de los 15 Corregimientos del Municipio de Cali. –Metodología Tipo III.,INTERNO,Planeación,F1
+INTERNO,Planeación,Estratificación socioeconómica cabecera corregimiento Montebello-METODOLOGIA TIPO II,INTERNO,Planeación,F1
+INTERNO,Planeación,Estratificación socioeconómica cabecera corregimiento Montebello-METODOLOGIA TIPO II,INTERNO,Planeación,F1
+INTERNO,Planeación,Estratificación socioeconómica Centros Poblados Especiales- Metodología para Centros Poblados Especiales.,INTERNO,Planeación,F1
+INTERNO,Control Interno,Evaluación y seguimiento,INTERNO,Control Interno,F1
+INTERNO,Educación,Evalución de desempeño de los docentes ,INTERNO,Educación,F1
+INTERNO,Educación,Evalución de desempeño de los docentes ,INTERNO,Planeación,F1
+INTERNO,Educación,Gestión de la Matricula,INTERNO,Educación,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Cartografía,INTERNO,Vivienda,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Cartografía,INTERNO,Planeación,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Cartografía,INTERNO,Dagma,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Mitigación de Riesgo,INTERNO,Vivienda,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Mitigación de Riesgo,INTERNO,Planeación,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Mitigación de Riesgo,INTERNO,Dagma,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Regularización y Titulación de Predios,INTERNO,Vivienda,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Regularización y Titulación de Predios,INTERNO,Planeación,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Titulación de Predios,INTERNO,Vivienda,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Titulación de Predios,INTERNO,Planeación,F1
+INTERNO,Vivienda,Gestión de la Secretaría de Vivienda Social en Titulación de Predios,INTERNO,Dagma,F1
+INTERNO,Salud,Gestión para la prestación de servicios de salud a la población pobre no asegurada,INTERNO,Salud,F1
+INTERNO,Tránsito,Grupo de investigación y criminalística,INTERNO,Todas las Dependencias,F1
+INTERNO,Planeación,Indicadores de Amenazas y gestión de Riesgos Naturales,INTERNO,Vivienda,F1
+INTERNO,Planeación,Indicadores de Amenazas y gestión de Riesgos Naturales,INTERNO,Planeación,F1
+INTERNO,Vivienda,indicadores de gestion,INTERNO,Planeación,F1
+INTERNO,Vivienda,indicadores de gestion,INTERNO,Hacienda,F1
+INTERNO,Hacienda,Indicadores de gestión,INTERNO,Hacienda,F1
+INTERNO,Hacienda,Indicadores de gestión,INTERNO,Hacienda,F1
+INTERNO,Hacienda,Indicadores de gestión,INTERNO,Control Interno,F1
+INTERNO,Hacienda,Indicadores de Gestión de Cofinanciación y Regalías,INTERNO,Hacienda,F1
+INTERNO,Hacienda,Indicadores de Gestión de Cofinanciación y Regalías,INTERNO,Planeación,F1
+INTERNO,Hacienda,Indicadores de gestión de pagos del Municipio de Santiago de Cali,INTERNO,Hacienda,F1
+INTERNO,Vivienda,Indicadores de Gestión en Mejoramiento de Vivienda,INTERNO,Vivienda,F1
+INTERNO,Vivienda,Indicadores de Gestión en Mejoramiento de Vivienda,INTERNO,Planeación,F1
+INTERNO,Gobierno,Indicadores de Gestión sobre propiedad horizontal,INTERNO,Gobierno,F1
+INTERNO,Bienestar,"Información de los dignatarios de organismos comunales de juntas de acción comunal, asocianones y federeación municipal",INTERNO,Administrativo,F1
+INTERNO,Dagma,Intervención de zonas verdes y espacio públicos,INTERNO,Dagma,F1
+INTERNO,Salud,"Laboratorio de SSPM – análisis de agua potable (urbano y rural), tanques de almacenamiento y aguas de uso recreativos.",INTERNO,Salud,F1
+INTERNO,Dagma,Licencia  Ambiental en Santiago de Cali,INTERNO,Dagma,F1
+INTERNO,Planeación,Licencia de Intervencion y Ocupacion del Espacio Publico,INTERNO,Planeación,F1
+INTERNO,Dagma,"Monitoreo, Vigilancia y control del ruido en la Ciudad de Santiago de Cali",INTERNO,Dagma,F1
+INTERNO,Salud,Morbilidad de enfermedades prevalentes de la infancia,INTERNO,Planeación,F1
+INTERNO,Salud,Natalidad y Mortalidad,INTERNO,Salud,F1
+INTERNO,Salud,Natalidad y Mortalidad,INTERNO,Salud,F1
+INTERNO,Salud,Natalidad y Mortalidad,INTERNO,Salud,F1
+INTERNO,Salud,Natalidad y Mortalidad,INTERNO,Salud,F1
+INTERNO,Educación,Observatorio de la Educación,INTERNO,Educación,F1
+INTERNO,Educación,Observatorio de la Educación,INTERNO,Educación,F1
+INTERNO,Educación,Observatorio de la Educación,INTERNO,Planeación,F1
+INTERNO,Educación,Observatorio de la Educación,INTERNO,Gobierno,F1
+INTERNO,General,Oficina de convivencia,INTERNO,General,F1
+INTERNO,Gobierno,Oficina de convivencia,INTERNO,Gobierno,F1
+INTERNO,Dagma,Permiso de Emisión Atmosférica para Fuentes Fijas en Santiago de Cali,INTERNO,Dagma,F1
+INTERNO,Control Disciplinario,Planeación institucional,INTERNO,Administrativo,F1
+INTERNO,Infraestructura,Priorizacion para mejoramiento de la malla vial de la ciudad de Cali,INTERNO,Infraestructura,F1
+INTERNO,Educación,Proceso de selección de candidatos a cubrir vacantes provisionales,INTERNO,Educación,F1
+INTERNO,Jurídica,Procesos Judiciales,INTERNO,Jurídica,F1
+INTERNO,Salud,Programa de prevención y control de Dengue,INTERNO,Salud,F1
+INTERNO,Salud,Programa de prevención y control de Dengue,INTERNO,Salud,F1
+INTERNO,Salud,Programa de residuos solidos hospitalarios,INTERNO,Salud,F1
+INTERNO,Salud,Programa de residuos solidos hospitalarios,INTERNO,Planeación,F1
+INTERNO,Salud,Programa de residuos solidos hospitalarios,INTERNO,Dagma,F1
+INTERNO,Tránsito,Programas en el área de Educación y Cultura ,INTERNO,Tránsito,F1
+INTERNO,Planeación,Proyecciones de población,INTERNO,Todas las Dependencias,F1
+INTERNO,Tránsito,Regulación de tránsito,INTERNO,Tránsito,F1
+INTERNO,Tránsito,Regulación de tránsito,INTERNO,Gobierno,F1
+INTERNO,Tránsito,Regulación de tránsito,INTERNO,Control Interno,F1
+INTERNO,Tránsito,Regulación de tránsito,INTERNO,Dagma,F1
+INTERNO,Salud,Riesgo del consumo de alimentos,INTERNO,Salud,F1
+INTERNO,Tránsito,Seguimiento a la cartera morosa de multas de transito,INTERNO,Tránsito,F1
+INTERNO,Bienestar,Seguimiento a la planeación económica y social,INTERNO,Bienestar,F1
+INTERNO,Cultura y turismo,"Seguimiento, control y análisis del Desarrollo de Festivales (Petronio Álvarez y Mundial de Salsa)",INTERNO,Cultura y turismo,F1
+INTERNO,Cultura y turismo,"Seguimiento, control y análisis del Desarrollo de Festivales (Petronio Álvarez y Mundial de Salsa)",INTERNO,Cultura y turismo,F1
+INTERNO,Salud,Seguiminetos a las acciones pedagogicas que promueven el aumento de consumo de frutas y verduras,INTERNO,Salud,F1
+INTERNO,Tránsito,"Señalización, Demarcación y Semaforización Vial ",INTERNO,Dagma,F1
+INTERNO,Tránsito,"Señalización, Demarcación y Semaforización Vial ",INTERNO,Salud,F1
+INTERNO,Tránsito,"Señalización, Demarcación y Semaforización Vial ",INTERNO,Infraestructura,F1
+INTERNO,Tránsito,"Señalización, Demarcación y Semaforización Vial ",INTERNO,Planeación,F1
+INTERNO,Planeación,Sisben,INTERNO,Planeación,F1
+INTERNO,Dagma,Sistema de Vigilancia de Calidad del Aire de Santiago de Cali,INTERNO,Dagma,F1
+INTERNO,Dagma,Sistema de Vigilancia de Calidad del Aire de Santiago de Cali,INTERNO,Salud,F1
+INTERNO,Salud,Sistema de vigilancia epidemiológica de cali,INTERNO,Salud,F1
+INTERNO,Salud,Sistema de Vigilancia Epidemiológica en Salud Ambiental – SISVEA,INTERNO,Salud,F1
+INTERNO,Salud,SISVAN: sistema de vigilancia alimentaria y nutricional,INTERNO,Salud,F1
+INTERNO,Salud,SISVAN: sistema de vigilancia alimentaria y nutricional,INTERNO,Planeación,F1
+INTERNO,Salud,SISVAN: sistema de vigilancia alimentaria y nutricional,INTERNO,Educación,F1
+INTERNO,Tránsito,Tasa de Accidentalidad,INTERNO,Tránsito,F1
+INTERNO,Tránsito,Tasa de Accidentalidad,INTERNO,Planeación,F1
+INTERNO,Educación,Transporte escolar,INTERNO,Educación,F1
+INTERNO,Salud,"Vigilancia y control a establecimientos de estética, belleza y peluquerías",INTERNO,Salud,F1
+INTERNO,Dagma,Vigilancia y Control a las nuevas construcciones,INTERNO,Deporte,F1
+INTERNO,Dagma,Vigilancia y Control a las nuevas construcciones,INTERNO,Educación,F1
+INTERNO,Salud,estilos de vida saludables y seguridad alimentaria y nutricional,INTERNO,Educación,F1
+INTERNO,Control Interno,Evaluación y seguimiento,INTERNO,Administrativo,F1
+INTERNO,Bienestar,"Información de los dignatarios de organismos comunales de juntas de acción comunal, asocianones y federeación municipal",INTERNO,Consejería Municpal-DESEPAZ,F1
+INTERNO,Tránsito,Grupo de investigación y criminalística,MINISTERIO,MinTransporte,F1
+INTERNO,Educación," Aprobación de establecimientos educativos por creación, apertura o cambio de sede,  ampliación o disminución de niveles o modalidad",MINISTERIO,MinEducación,F1
+INTERNO,Dagma,Administración del agua subterránea de la ciudad de Santiago de Cali,MINISTERIO,MinAmbiente,F1
+INTERNO,Dagma,Administración del agua superficial de la ciudad de Santiago de Cali.,MINISTERIO,MinAmbiente,F1
+INTERNO,Educación,Alimentación escolar,MINISTERIO,MinEducación,F1
+INTERNO,Educación,Ambientes Escolares,MINISTERIO,MinEducación,F1
+INTERNO,Salud,Aplicativo base de datos institucionales de inscripción y control a los programas de hipertensión arterial (HTA) y diabetes mellitus (DM),MINISTERIO,MinSalud,F1
+INTERNO,Educación,Apoyo Institucional,MINISTERIO,MinEducación,F1
+INTERNO,Dagma,Aprovechamiento de árboles aislados,MINISTERIO,MinAmbiente,F1
+INTERNO,Bienestar,"Asistencia Tecnica directa Rural agropecuaria, ambiental , forestal y pesquero",MINISTERIO,MinCultura,F1
+INTERNO,Salud,Auditoría al régimen subsidiado,MINISTERIO,MinSalud,F1
+INTERNO,Cultura y turismo,Beneficiarios del Estudio de Grabación Takeshima,MINISTERIO,MinCultura,F1
+INTERNO,Salud,Centro de Zoonosis de la SSPM,MINISTERIO,MinSalud,F1
+INTERNO,Salud,Centro de Zoonosis de la SSPM,MINISTERIO,INS,F1
+INTERNO,Salud,Cobertura Util de Vacunación,MINISTERIO,MinSalud,F1
+INTERNO,Dagma,Concepto Técnico de Manejo Silvicultural Arbóreo de Proyectos Urbanisticos en Santiago de Cali,MINISTERIO,MinAmbiente,F1
+INTERNO,Dagma,Control del agua superficial de la ciudad de Santiago de Cali.,MINISTERIO,MinAmbiente,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,MINISTERIO,MinInterior,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,MINISTERIO,MinJusticia,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,MINISTERIO,Ejercito de Colombia-Gaula,F1
+INTERNO,Gobierno,Delitos contra la vida,MINISTERIO,MinInterior,F1
+INTERNO,Gobierno,Delitos contra la vida,MINISTERIO,MinJusticia,F1
+INTERNO,Gobierno,Delitos contra la vida,MINISTERIO,Ejercito de Colombia-Gaula,F1
+INTERNO,Educación,detencion debilidades y fortalezas de los funcionarios en objeto de evaluacion,MINISTERIO,MinEducación,F1
+INTERNO,Bienestar,Discapacidad,MINISTERIO,MinSalud,F1
+INTERNO,General,Estadísticas del Programa Municipal de atención a víctimas,MINISTERIO,MinInterior,F1
+INTERNO,General,Estadísticas del Programa Municipal de atención a víctimas,MINISTERIO,MinVivienda,F1
+INTERNO,General,Estadísticas del Programa Municipal de atención a víctimas,MINISTERIO,MinSalud,F1
+INTERNO,Educación,Evalución de desempeño de los docentes ,MINISTERIO,MinEducación,F1
+INTERNO,Educación,Gestión de la Matricula,MINISTERIO,MinEducación,F1
+INTERNO,Salud,Gestión para la prestación de servicios de salud a la población pobre no asegurada,MINISTERIO,MinSalud,F1
+INTERNO,Planeación,Indicadores de Amenazas y gestión de Riesgos Naturales,MINISTERIO,MinVivienda,F1
+INTERNO,Vivienda,indicadores de gestion,MINISTERIO,MinVivienda,F1
+INTERNO,Bienestar,"Información de los dignatarios de organismos comunales de juntas de acción comunal, asocianones y federeación municipal",MINISTERIO,MinInterior,F1
+INTERNO,Dagma,Licencia  Ambiental en Santiago de Cali,MINISTERIO,MinAmbiente,F1
+INTERNO,Vivienda,Modulo subsidios,MINISTERIO,MinVivienda,F1
+INTERNO,Dagma,Monitoreo al recurso hídrico,MINISTERIO,MinAmbiente,F1
+INTERNO,Salud,Morbilidad de enfermedades prevalentes de la infancia,MINISTERIO,MinSalud,F1
+INTERNO,Salud,Natalidad y Mortalidad,MINISTERIO,MinSalud,F1
+INTERNO,Educación,Observatorio de la Educación,MINISTERIO,MinEducación,F1
+INTERNO,General,Oficina de convivencia,MINISTERIO,MinTIC,F1
+INTERNO,Dagma,Permiso de Emisión Atmosférica para Fuentes Fijas en Santiago de Cali,MINISTERIO,MinAmbiente,F1
+INTERNO,Planeación,Planes parciales,MINISTERIO,MinVivienda,F1
+INTERNO,Educación,Proceso de selección de candidatos a cubrir vacantes provisionales,MINISTERIO,MinEducación,F1
+INTERNO,Jurídica,Procesos Judiciales,MINISTERIO,MinJusticia,F1
+INTERNO,Salud,Programa de residuos solidos hospitalarios,MINISTERIO,MinSalud,F1
+INTERNO,Dagma,Prospección del agua subterránea de la ciudad de Santiago de Cali,MINISTERIO,MinAmbiente,F1
+INTERNO,Dagma,Regulación a la exhibición de especímenes de la diversidad biológica en Santiago de Cali,MINISTERIO,MinAmbiente,F1
+INTERNO,Dagma,Regulación a la movilización de especímenes de la diversidad biológica en Santiago de Cali,MINISTERIO,MinAmbiente,F1
+INTERNO,Dagma,Regulación al aprovechamiento de los especímenes de la diversidad biológica en Santiago de Cali,MINISTERIO,MinAmbiente,F1
+INTERNO,Tránsito,Regulación de tránsito,MINISTERIO,MinTransporte,F1
+INTERNO,Dagma,Regulación del agua superficial de la ciudad de Santiago de Cali.,MINISTERIO,MinAmbiente,F1
+INTERNO,Salud,Riesgo del consumo de alimentos,MINISTERIO,MinSalud,F1
+INTERNO,Salud,Riesgo del consumo de alimentos,MINISTERIO,INS,F1
+INTERNO,Salud,Riesgo del consumo de alimentos,MINISTERIO,INVIMA,F1
+INTERNO,Tránsito,Seguimiento a la cartera morosa de multas de transito,MINISTERIO,Ministerio de Trasporte,F1
+INTERNO,Cultura y turismo,"Seguimiento, control y análisis del Desarrollo de Festivales (Petronio Álvarez y Mundial de Salsa)",MINISTERIO,MinCultura,F1
+INTERNO,Dagma,Sistema de Vigilancia de Calidad del Aire de Santiago de Cali,MINISTERIO,MinAmbiente,F1
+INTERNO,Dagma,Sistema de Vigilancia de Calidad del Aire de Santiago de Cali,MINISTERIO,IDEAM,F1
+INTERNO,Salud,Sistema de vigilancia epidemiológica de cali,MINISTERIO,MinSalud,F1
+INTERNO,Salud,Sistema de vigilancia epidemiológica de cali,MINISTERIO,INS,F1
+INTERNO,Salud,SISVAN: sistema de vigilancia alimentaria y nutricional,MINISTERIO,MinSalud,F1
+INTERNO,Tránsito,Tasa de Accidentalidad,MINISTERIO,MinTransporte,F1
+INTERNO,Educación,Transporte escolar,MINISTERIO,MinEducación,F1
+INTERNO,Salud,"Vigilancia y control a establecimientos de estética, belleza y peluquerías",MINISTERIO,MinSalud,F1
+INTERNO,Salud,Natalidad y Mortalidad,MINISTERIO,INS,F1
+INTERNO,Dagma,Regulación a la movilización de especímenes de la diversidad biológica en Santiago de Cali,MINISTERIO,IDEAM,F1
+INTERNO,Tránsito,Seguimiento a la cartera morosa de multas de transito,MINISTERIO,Oficina de instrumentos públicos,F1
+INTERNO,Salud,Sistema de Vigilancia Epidemiológica en Salud Ambiental – SISVEA,MINISTERIO,INVIMA,F1
+INTERNO,Salud,Aplicativo base de datos institucionales de inscripción y control a los programas de hipertensión arterial (HTA) y diabetes mellitus (DM),OTRO_EXTERNO,ESE,F1
+INTERNO,Gobierno,Acta de visita a establecimientos comerciales ,OTRO_EXTERNO,Establecimientos de comercio,F1
+INTERNO,Salud,Auditoría al régimen subsidiado,OTRO_EXTERNO,Secretaría Departamental de Salud,F1
+INTERNO,Salud,Sistema de vigilancia epidemiológica de cali,OTRO_EXTERNO,Secretaría Departamental de Salud,F1
+INTERNO,Salud,Natalidad y Mortalidad,OTRO_EXTERNO,Notaria,F1
+INTERNO,Educación,Ambientes Escolares,OTRO_EXTERNO,Cali como Vamos,F1
+INTERNO,Planeación,Cali en cifras,OTRO_EXTERNO,EMCALI,F1
+INTERNO,Planeación,Cali en cifras,OTRO_EXTERNO,Metrocali,F1
+INTERNO,Planeación,Cuentas Municipales,OTRO_EXTERNO,Sector Privado Tercer Sector,F1
+INTERNO,Educación,Observatorio de la Educación,OTRO_EXTERNO,Fundaciones,F1
+INTERNO,Educación,Observatorio de la Educación,OTRO_EXTERNO,Cali como Vamos,F1
+INTERNO,Educación,Observatorio de la Educación,OTRO_EXTERNO,Diario el Pais,F1
+INTERNO,Planeación,Proyecciones de población,OTRO_EXTERNO,EMCALI,F1
+INTERNO,Planeación,Proyecciones de población,OTRO_EXTERNO,Metrocali,F1
+INTERNO,Dagma,Sistema de Vigilancia de Calidad del Aire de Santiago de Cali,OTRO_EXTERNO,Consultorias ambientales,F1
+INTERNO,Salud,Aseguramiento: Régimen subsidiado y susceptible de afiliación,OTRO_EXTERNO,ESE,F1
+INTERNO,Salud,Aseguramiento: Régimen subsidiado y susceptible de afiliación,OTRO_EXTERNO,EPS,F1
+INTERNO,General,Atención al ususario,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Salud,Auditoría al régimen subsidiado,OTRO_EXTERNO,EPS,F1
+INTERNO,Salud,Auditoría al régimen subsidiado,OTRO_EXTERNO,Emssanar,F1
+INTERNO,Salud,Auditoría al régimen subsidiado,OTRO_EXTERNO,Coosalud,F1
+INTERNO,Salud,Auditoría al régimen subsidiado,OTRO_EXTERNO,Caprecón,F1
+INTERNO,Salud,Auditoría al régimen subsidiado,OTRO_EXTERNO,Cafésalud,F1
+INTERNO,Salud,Auditoría al régimen subsidiado,OTRO_EXTERNO,EPS,F1
+INTERNO,Salud,Auditoría al régimen subsidiado,OTRO_EXTERNO,Asmet Salud,F1
+INTERNO,Salud,Estrategia de atención primaria en salud,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Planeación,Indicadores de Amenazas y gestión de Riesgos Naturales,OTRO_EXTERNO,EMCALI,F1
+INTERNO,Tránsito,"Señalización, Demarcación y Semaforización Vial ",OTRO_EXTERNO,Metrocali,F1
+INTERNO,Salud,Sistema de Vigilancia Epidemiológica en Salud Ambiental – SISVEA,OTRO_EXTERNO,Consejo Territorial en Salud ambiental,F1
+INTERNO,Educación," Aprobación de establecimientos educativos por creación, apertura o cambio de sede,  ampliación o disminución de niveles o modalidad",OTRO_EXTERNO,ICFES,F1
+INTERNO,Educación," Aprobación de establecimientos educativos por creación, apertura o cambio de sede,  ampliación o disminución de niveles o modalidad",OTRO_EXTERNO,ICBF,F1
+INTERNO,Educación," Aprobación de establecimientos educativos por creación, apertura o cambio de sede,  ampliación o disminución de niveles o modalidad",OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Dagma,Administración del agua subterránea de la ciudad de Santiago de Cali,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Dagma,Aprovechamiento de árboles aislados,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Dagma,Auditoría a la información producida por los Centros de Diagnóstico Automotor (CDA) en Santiago de Cali,OTRO_EXTERNO,Los centros de diagnóstico ambiental,F1
+INTERNO,General,Caracterización de los Jueces de paz y Jueces de Reconsideración del Municipio de Santiago de Cali,OTRO_EXTERNO,ONGs,F1
+INTERNO,General,Caracterización de los Jueces de paz y Jueces de Reconsideración del Municipio de Santiago de Cali,OTRO_EXTERNO,Rama Judicial,F1
+INTERNO,Salud,Centro de Zoonosis de la SSPM,OTRO_EXTERNO,Secretaría Departamental de Salud,F1
+INTERNO,Salud,Cobertura Util de Vacunación,OTRO_EXTERNO,Entidades vacunadoras,F1
+INTERNO,Salud,Cobertura Util de Vacunación,OTRO_EXTERNO,ESE,F1
+INTERNO,Dagma,Concepto Técnico de Manejo Silvicultural Arbóreo de Proyectos Urbanisticos en Santiago de Cali,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Planeación,Cuentas Municipales,OTRO_EXTERNO,Sector Publico,F1
+INTERNO,Planeación,Cuentas Municipales,OTRO_EXTERNO,ONGs,F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,OTRO_EXTERNO,Prensa,F1
+INTERNO,Gobierno,Delitos contra la vida,OTRO_EXTERNO,Prensa,F1
+INTERNO,Educación,detencion debilidades y fortalezas de los funcionarios en objeto de evaluacion,OTRO_EXTERNO,comision nacional del servicio civil,F1
+INTERNO,Bienestar,Discapacidad,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,General,Estadísticas del Programa Municipal de atención a víctimas,OTRO_EXTERNO,Mesa Municipal de participación y fortalecimiento de víctimas.,F1
+INTERNO,Planeación,Estratificación Socioeconómica – AREA URBANA MUNICIPIO DE SANTIAGO DE CALI- (22 Comunas de la ciudad) METODOLOGIA TIPO 1.,OTRO_EXTERNO,EMCALI,F1
+INTERNO,Planeación,Estratificación Socioeconómica – AREA URBANA MUNICIPIO DE SANTIAGO DE CALI- (22 Comunas de la ciudad) METODOLOGIA TIPO 1.,OTRO_EXTERNO,EMPRRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS,F1
+INTERNO,Planeación,Estratificación Socioeconómica – AREA URBANA MUNICIPIO DE SANTIAGO DE CALI- (22 Comunas de la ciudad) METODOLOGIA TIPO 1.,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Planeación,Estratificación Socioeconómica – AREA URBANA MUNICIPIO DE SANTIAGO DE CALI- (22 Comunas de la ciudad) METODOLOGIA TIPO 1.,OTRO_EXTERNO,ENTIDADES DEL ORDEN DEPARTAMENTAL,F1
+INTERNO,Planeación,Estratificación Socioeconómica – AREA URBANA MUNICIPIO DE SANTIAGO DE CALI- (22 Comunas de la ciudad) METODOLOGIA TIPO 1.,OTRO_EXTERNO,Entidades del orden MUNICIPAL,F1
+INTERNO,Planeación,Estratificación Socioeconómica – AREA URBANA MUNICIPIO DE SANTIAGO DE CALI- (22 Comunas de la ciudad) METODOLOGIA TIPO 1.,OTRO_EXTERNO,IAS,F1
+INTERNO,Planeación,Estratificación Socioeconómica – Centros Poblados ubicados en las  Cabeceras de los 15 Corregimientos del Municipio de Cali. –Metodología Tipo III.,OTRO_EXTERNO,EMCALI,F1
+INTERNO,Planeación,Estratificación Socioeconómica – Centros Poblados ubicados en las  Cabeceras de los 15 Corregimientos del Municipio de Cali. –Metodología Tipo III.,OTRO_EXTERNO,EMPRRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS,F1
+INTERNO,Planeación,Estratificación Socioeconómica – Centros Poblados ubicados en las  Cabeceras de los 15 Corregimientos del Municipio de Cali. –Metodología Tipo III.,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Planeación,Estratificación Socioeconómica – Centros Poblados ubicados en las  Cabeceras de los 15 Corregimientos del Municipio de Cali. –Metodología Tipo III.,OTRO_EXTERNO,ENTIDADES DEL ORDEN DEPARTAMENTAL,F1
+INTERNO,Planeación,Estratificación Socioeconómica – Centros Poblados ubicados en las  Cabeceras de los 15 Corregimientos del Municipio de Cali. –Metodología Tipo III.,OTRO_EXTERNO,Entidades del orden MUNICIPAL,F1
+INTERNO,Planeación,Estratificación Socioeconómica – Centros Poblados ubicados en las  Cabeceras de los 15 Corregimientos del Municipio de Cali. –Metodología Tipo III.,OTRO_EXTERNO,IAS,F1
+INTERNO,Planeación,Estratificación socioeconómica cabecera corregimiento Montebello-METODOLOGIA TIPO II,OTRO_EXTERNO,EMCALI,F1
+INTERNO,Planeación,Estratificación socioeconómica cabecera corregimiento Montebello-METODOLOGIA TIPO II,OTRO_EXTERNO,EMPRRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS,F1
+INTERNO,Planeación,Estratificación socioeconómica cabecera corregimiento Montebello-METODOLOGIA TIPO II,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Planeación,Estratificación socioeconómica cabecera corregimiento Montebello-METODOLOGIA TIPO II,OTRO_EXTERNO,ENTIDADES DEL ORDEN DEPARTAMENTAL,F1
+INTERNO,Planeación,Estratificación socioeconómica cabecera corregimiento Montebello-METODOLOGIA TIPO II,OTRO_EXTERNO,Entidades del orden MUNICIPAL,F1
+INTERNO,Planeación,Estratificación socioeconómica cabecera corregimiento Montebello-METODOLOGIA TIPO II,OTRO_EXTERNO,IAS,F1
+INTERNO,Tránsito,Grupo de investigación y criminalística,OTRO_EXTERNO,Fondo de Prevención Vial,F1
+INTERNO,Planeación,Indicadores de Amenazas y gestión de Riesgos Naturales,OTRO_EXTERNO,Juzgados Municipales,F1
+INTERNO,Bienestar,"Información de los dignatarios de organismos comunales de juntas de acción comunal, asocianones y federeación municipal",OTRO_EXTERNO,Sociedad civil,F1
+INTERNO,Dagma,Intervención de zonas verdes y espacio públicos,OTRO_EXTERNO,Camacol,F1
+INTERNO,Planeación,Licencia de Intervencion y Ocupacion del Espacio Publico,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Vivienda,Modulo subsidios,OTRO_EXTERNO,Camacol,F1
+INTERNO,Dagma,Monitoreo al recurso hídrico,OTRO_EXTERNO,Los usuarios,F1
+INTERNO,Salud,Morbilidad de enfermedades prevalentes de la infancia,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Salud,Morbilidad de enfermedades prevalentes de la infancia,OTRO_EXTERNO,IPS,F1
+INTERNO,Salud,Morbilidad de enfermedades prevalentes de la infancia,OTRO_EXTERNO,EPS,F1
+INTERNO,Salud,Morbilidad de enfermedades prevalentes de la infancia,OTRO_EXTERNO,ESE,F1
+INTERNO,Salud,Natalidad y Mortalidad,OTRO_EXTERNO,Secretaría Departamental de Salud,F1
+INTERNO,Salud,Natalidad y Mortalidad,OTRO_EXTERNO,Lideres comunitarios,F1
+INTERNO,Gobierno,Oficina de convivencia,OTRO_EXTERNO,medios de comunicación,F1
+INTERNO,Planeación,Planes parciales,OTRO_EXTERNO,"EMRU- Empresa de Renovación Urbana: Movilidad, espacio público",F1
+INTERNO,Tránsito,Programas en el área de Educación y Cultura ,OTRO_EXTERNO,Empresas,F1
+INTERNO,Tránsito,Programas en el área de Educación y Cultura ,OTRO_EXTERNO,Juzgados,F1
+INTERNO,Tránsito,Programas en el área de Educación y Cultura ,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Dagma,Prospección del agua subterránea de la ciudad de Santiago de Cali,OTRO_EXTERNO,Los usuarios,F1
+INTERNO,Planeación,Proyecciones de población,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Dagma,Regulación a la exhibición de especímenes de la diversidad biológica en Santiago de Cali,OTRO_EXTERNO,Zoológicos de Santiago de Cali,F1
+INTERNO,Salud,Riesgo del consumo de alimentos,OTRO_EXTERNO,FENAVI,F1
+INTERNO,Salud,Riesgo del consumo de alimentos,OTRO_EXTERNO,Asociación de Porcicultores,F1
+INTERNO,Salud,Riesgo del consumo de alimentos,OTRO_EXTERNO,Policía,F1
+INTERNO,Tránsito,Seguimiento a la cartera morosa de multas de transito,OTRO_EXTERNO,Federación de Municipios- SIMIT Sistemas de Información de Multas e  Infracciones  de Tránsito,F1
+INTERNO,Cultura y turismo,"Seguimiento, control y análisis del Desarrollo de Festivales (Petronio Álvarez y Mundial de Salsa)",OTRO_EXTERNO,"Grupo representativos poblacionales (Grupos de salsa, grupos de teatro, asociaciones afro, entre otros)",F1
+INTERNO,Dagma,Sistema de Vigilancia de Calidad del Aire de Santiago de Cali,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Salud,Sistema de Vigilancia Epidemiológica en Salud Ambiental – SISVEA,OTRO_EXTERNO,EMCALI,F1
+INTERNO,Salud,SISVAN: sistema de vigilancia alimentaria y nutricional,OTRO_EXTERNO,IPS,F1
+INTERNO,Salud,SISVAN: sistema de vigilancia alimentaria y nutricional,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Tránsito,Tasa de Accidentalidad,OTRO_EXTERNO,Naciones Unidas,F1
+INTERNO,Tránsito,Tasa de Accidentalidad,OTRO_EXTERNO,BID,F1
+INTERNO,Educación,Transporte escolar,OTRO_EXTERNO,Cali Cómo Vamos,F1
+INTERNO,Cultura y turismo,Usuarios archivo histórico,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Dagma,Vigilancia y Control a las nuevas construcciones,OTRO_EXTERNO,Constructoras,F1
+INTERNO,Dagma,Vigilancia y Control a las nuevas construcciones,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Dagma,Vigilancia y Control a las nuevas construcciones,OTRO_EXTERNO,La Ciudadania,F1
+INTERNO,Planeación,Sisben,PRESIDENCIA,Primera Infancia,F1
+INTERNO,Bienestar,"Asistencia Tecnica directa Rural agropecuaria, ambiental , forestal y pesquero",UNIDAD_ESPECIAL,Unidad Administrativa Especial Sistema de Parques Nacionales Naturales (UAESPNN),F1
+INTERNO,Planeación,Indicadores de Amenazas y gestión de Riesgos Naturales,UNIDAD_ESPECIAL,Unidad de Restitución de Tierras,F1
+INTERNO,Dagma,Administración del agua superficial de la ciudad de Santiago de Cali.,UNIDAD_ESPECIAL,Unidad Administrativa Especial Sistema de Parques Nacionales Naturales (UAESPNN),F1
+INTERNO,Salud,Aseguramiento: Régimen subsidiado y susceptible de afiliación,UNIDAD_ESPECIAL,FOSIGA (base de datos única de afiliados),F1
+INTERNO,Dagma,Control del agua superficial de la ciudad de Santiago de Cali.,UNIDAD_ESPECIAL,Unidad Administrativa Especial Sistema de Parques Nacionales Naturales (UAESPNN),F1
+INTERNO,Gobierno,Delitos contra el patrimonio económico,UNIDAD_ESPECIAL,Unidad de Vida de la Fiscalia,F1
+INTERNO,Gobierno,Delitos contra la vida,UNIDAD_ESPECIAL,Unidad de Vida de la Fiscalia,F1
+INTERNO,General,Estadísticas del Programa Municipal de atención a víctimas,UNIDAD_ESPECIAL,Unidad para la Atención y la Reparación Integral a las Víctimas.,F1
+INTERNO,Dagma,Regulación del agua superficial de la ciudad de Santiago de Cali.,UNIDAD_ESPECIAL,Unidad Administrativa Especial Sistema de Parques Nacionales Naturales (UAESPNN),F1
+INTERNO,Salud,Sistema de vigilancia epidemiológica de cali,UNIDAD_ESPECIAL,UPGDS (IPS),F1
+ACADEMIA,Universidades,Resultados de investigaciones en el tema cultural e industrias culturales,INTERNO,Cultura y turismo,F2
+ACADEMIA,CISALVA,Estadística de morbimortalidad por accidente de Tránsito. ,INTERNO,Tránsito,F2
+DEP_ADMIN,DANE,"Total de poblacion discriminada según las politicas: primera infancia, de 0-5 infancia 6-11, adolescencia 12 -17, juventud 18-28",INTERNO,Bienestar,F2
+DEP_ADMIN,DIAN,Ingresos (bases gravables),INTERNO,Hacienda,F2
+DEP_ADMIN,DIAN,objeto economico o social,INTERNO,Hacienda,F2
+DEP_ADMIN,Sistema General de Regalías,Presupuesto y asignación de recursos del Sistema Nacional de Regalías,INTERNO,Hacienda,F2
+DEP_ADMIN,DANE,"Infraestructura Hotelera ( tendencia de compra del turista, qué es lo que mas les gusta comprar..)",INTERNO,Cultura y turismo,F2
+DEP_ADMIN,DANE,Poblacion etaria (Información de jovenes que hay en cali),INTERNO,Cultura y turismo,F2
+DEP_ADMIN,Departamento para la prosperidad social (DPS),Base de datos de potenciales beneficiarios de familias en acción en educación,INTERNO,General,F2
+DEP_ADMIN,Departamento para la prosperidad social (DPS),Base de datos de potenciales beneficiarios de familias en acción en Salud,INTERNO,General,F2
+DEP_ADMIN,DANE,Necesidades básicas insatisfechas; Producto Interno Bruto (PIB) Regional; PIB Percapita Regional;Tasa de Desempleo Regional              ,INTERNO,Educación,F2
+DEP_ADMIN,DANE,Proyecciones de población,INTERNO,Educación,F2
+DEP_ADMIN,DANE,Proyecciones de Población+,INTERNO,Salud,F2
+DEP_ADMIN,DANE,Características Poblacionales,INTERNO,Tránsito,F2
+DEP_ADMIN,Departamento para la prosperidad social (DPS),"Estadísticas del Programa Municipal de atención a victimas         
+         ",INTERNO,General,F2
+ENTE_CONTROL,Fiscalía,Hurtos Denunciados,INTERNO,Gobierno,F2
+ENTE_CONTROL,Fiscalía,Actas de inspección a cadaver,INTERNO,Gobierno,F2
+ENTE_CONTROL,Personería,"Ninguno maltratado, abusado o víctima del conflicto interno generado por grupos al margen de la ley",INTERNO,Bienestar,F2
+ENTE_CONTROL,Fiscalía,Ninguno en actividad perjudicial,INTERNO,Bienestar,F2
+ENTE_CONTROL,Fiscalía,Adolescentes acusados de violar la ley penal con su debido proceso,INTERNO,Bienestar,F2
+ENTE_CONTROL,Contraloría,"Hallazgos fiscales, funcionarios con fallos fiscales, valor de  fallos fiscales por dependencia  ",INTERNO,Control Interno,F2
+ENTE_CONTROL,Procuraduría,"Fallos disciplinarios,  Funcionarios de nivel directivo con fallos, Funcionarios de nivel asesor con fallos disciplinarios por dependencia ",INTERNO,Control Interno,F2
+ENTE_CONTROL,Contraloría,"Nómina del Concejo de Cali, Personería y Controlaría",INTERNO,Planeación,F2
+ENTE_CONTROL,Personería,"Nómina del Concejo de Cali, Personería y Controlaría",INTERNO,Planeación,F2
+ENTIDAD_AUTONOMA,CVC,"Indicadores del Modelo de Ordenamiento Territorial = son indicadores que miden el estado actual del territorio; su objetivo es seguir el ordenamiento territorial de la ciudad; variables de infraestructura, servicios públicos, natalidad, mortalidad, salud, educación.",INTERNO,Planeación,F2
+ENTIDAD_AUTONOMA,CVC,Normativa especifica para un sector desde el componente ambiental,INTERNO,Planeación,F2
+ENTIDAD_AUTONOMA,CVC,Estudios técnicos o físicos,INTERNO,Gobierno,F2
+ENTIDAD_AUTONOMA,CVC,Análisis ambiental (Para el POT),INTERNO,Planeación,F2
+ENTIDAD_AUTONOMA,Cámara de Comercio,"Indicadores del Modelo de Ordenamiento Territorial = son indicadores que miden el estado actual del territorio; su objetivo es seguir el ordenamiento territorial de la ciudad; variables de infraestructura, servicios públicos, natalidad, mortalidad, salud, educación.",INTERNO,Planeación,F2
+ENTIDAD_AUTONOMA,Registraduria,Ninguno sin registro,INTERNO,Bienestar,F2
+ENTIDAD_AUTONOMA,Registraduria,Base de Datos de la Registraduría Nacional del Estado Civil sobre Jueces de Paz y Jueces de Paz de Reconsideración en el Municipio de Santiago de Cali,INTERNO,General,F2
+INTERNO,Planeación,Sisben,INTERNO,Vivienda,F2
+INTERNO,Hacienda,Sistema de Información catastral,INTERNO,Planeación,F2
+INTERNO,Hacienda,Sistema de Información catastral,INTERNO,Planeación,F2
+INTERNO,Administrativo,Certificación de calidad de bien Municipal,INTERNO,Planeación,F2
+INTERNO,Dagma,Revisión del proyecto,INTERNO,Planeación,F2
+INTERNO,Todas las Dependencias,"Indicadores del Modelo de Ordenamiento Territorial = son indicadores que miden el estado actual del territorio; su objetivo es seguir el ordenamiento territorial de la ciudad; variables de infraestructura, servicios públicos, natalidad, mortalidad, salud, educación.",INTERNO,Planeación,F2
+INTERNO,Salud,"Servios publicos domiciliarios de acueducto, alcaltarillado y aseo",INTERNO,Planeación,F2
+INTERNO,Planeación,"Población , estratificacion, presupuesto del fondo , manejo de los recursos",INTERNO,Planeación,F2
+INTERNO,Tránsito,Volumenes vehículares = numero de vehículos que pasan por una vía en un tiempo determinado,INTERNO,Planeación,F2
+INTERNO,Infraestructura,Volumenes vehículares = numero de vehículos que pasan por una vía en un tiempo determinado,INTERNO,Planeación,F2
+INTERNO,Jurídica,Seguimiento a los indicadores de Trámites y Servicios,INTERNO,Planeación,F2
+INTERNO,Dagma,Normativa especifica para un sector desde el componente ambiental,INTERNO,Planeación,F2
+INTERNO,Tránsito,Normativas,INTERNO,Planeación,F2
+INTERNO,Infraestructura,Normativas,INTERNO,Planeación,F2
+INTERNO,Salud,Diagnóstico de sector Salud,INTERNO,Planeación,F2
+INTERNO,Educación,Diagnóstico Educación,INTERNO,Planeación,F2
+INTERNO,Cultura y turismo,Diagnóstico de Cultura,INTERNO,Planeación,F2
+INTERNO,Deporte,Diagnóstico de Deporte,INTERNO,Planeación,F2
+INTERNO,Bienestar,Diagnóstico de Participación y de Grupos Poblacionales,INTERNO,Planeación,F2
+INTERNO,Infraestructura,Diagnóstico de infraestructura y Malla Vial,INTERNO,Planeación,F2
+INTERNO,Gobierno,Diagnóstico de Seguridad,INTERNO,Planeación,F2
+INTERNO,Vivienda,Diagnóstico de Vivienda,INTERNO,Planeación,F2
+INTERNO,Tránsito,Diagnóstico de Tránsito,INTERNO,Planeación,F2
+INTERNO,Administrativo,Diagnóstico de Gestión Administrativa,INTERNO,Planeación,F2
+INTERNO,Control Interno,Diagnóstico de Gestión Administrativa,INTERNO,Planeación,F2
+INTERNO,Control Disciplinario,Diagnóstico de Gestión Administrativa,INTERNO,Planeación,F2
+INTERNO,Hacienda,Diagnóstico de Gestión Administrativa,INTERNO,Planeación,F2
+INTERNO,Jurídica,Diagnóstico de Gestión Administrativa,INTERNO,Planeación,F2
+INTERNO,General,Diagnóstico de Gestión Administrativa,INTERNO,Planeación,F2
+INTERNO,Dagma,Diagnóstico de Medio Ambiente,INTERNO,Planeación,F2
+INTERNO,Planeación,Diagnóstico Territorial,INTERNO,Planeación,F2
+INTERNO,Planeación,Estadísticas de Cali en Cifras,INTERNO,Gobierno,F2
+INTERNO,Planeación,Estudios técnicos o físicos,INTERNO,Gobierno,F2
+INTERNO,Dagma,Estudios técnicos o físicos,INTERNO,Gobierno,F2
+INTERNO,Vivienda,Estudios técnicos o físicos,INTERNO,Gobierno,F2
+INTERNO,Vivienda,Censos de asentamientos subnormales,INTERNO,Gobierno,F2
+INTERNO,Planeación,Mapas,INTERNO,Gobierno,F2
+INTERNO,Tránsito,Muertes Por Accidente de Transito,INTERNO,Gobierno,F2
+INTERNO,Hacienda,"Techos presupuestales, traslados",INTERNO,Control Disciplinario,F2
+INTERNO,Planeación,Sistema de gestion de calidad de procesos transversales,INTERNO,Control Disciplinario,F2
+INTERNO,Salud,Mortalidad en población de 0 a 17.,INTERNO,Bienestar,F2
+INTERNO,Salud,"Porcentaje de niños, niñas y adolescentes con desnutricion cronica, global , con peso bajo al nacer y mujeres gestants con anemia nutricional",INTERNO,Bienestar,F2
+INTERNO,Salud,Todos Saludables,INTERNO,Bienestar,F2
+INTERNO,Salud,Ninguno desnutrido,INTERNO,Bienestar,F2
+INTERNO,Educación,Ninguno desnutrido,INTERNO,Bienestar,F2
+INTERNO,Educación,Ninguno sin Educación,INTERNO,Bienestar,F2
+INTERNO,Planeación,Todos Jugando,INTERNO,Bienestar,F2
+INTERNO,Educación,"Todos capaces de manejar afectos, emociones y sexualidad",INTERNO,Bienestar,F2
+INTERNO,Cultura y turismo,"Todos capaces de manejar afectos, emociones y sexualidad",INTERNO,Bienestar,F2
+INTERNO,Educación,Todos participando en espacios sociales,INTERNO,Bienestar,F2
+INTERNO,General,Todos participando en espacios sociales,INTERNO,Bienestar,F2
+INTERNO,Salud,Ninguno sin registro,INTERNO,Bienestar,F2
+INTERNO,comisarias de familia,"Ninguno maltratado, abusado o víctima del conflicto interno generado por grupos al margen de la ley",INTERNO,Bienestar,F2
+INTERNO,Salud,"Numero de jovenes atendidos de 14 a 28 años que participan en procesos formativos de salud sexual y productiva,discapacidad y que partipan en campañas de planificacion familiar 14 a 28",INTERNO,Bienestar,F2
+INTERNO,Educación,Numero de jovenes que hacen parte del sistema educativosegun categorias de 14- 17 y numero de jovenes con discapacidad que hacen parte del sistema educativo por: 14- 17 y de 18 a 28,INTERNO,Bienestar,F2
+INTERNO,Gobierno,Categorias de analisis diferenciales según ciclos vitales de 6-12 infancia; 12-17 adolescencia y 18 -28 juventud,INTERNO,Bienestar,F2
+INTERNO,Gobierno,numero de jovenes y adolescentes que participan en programas de cultura de paz y segunda oportunidad para jivenes infractores de la ley,INTERNO,Bienestar,F2
+INTERNO,General,"numero de joevenes de 18 a 28 años que participan en programas de prevencion y protecion de trata de personas, y numero de jovenes de 14 a 28 que participan en programas de proteccion y aceso a las tecnologias de la informacion",INTERNO,Bienestar,F2
+INTERNO,Cultura y turismo,numero de adolescentes 12-17 y jovenes 14-28 que participan en porgramas de cultura y deporte.,INTERNO,Bienestar,F2
+INTERNO,Salud,Toda la informacion del tipo de violencia en el municipio,INTERNO,Bienestar,F2
+INTERNO,Administrativo,Antecedentes y Soporte para Asesoría Jurídica,INTERNO,Jurídica,F2
+INTERNO,Hacienda,Reporte de Pago de Sentencia de Hacienda ,INTERNO,Jurídica,F2
+INTERNO,Hacienda,Cobro y Recaudo,INTERNO,Infraestructura,F2
+INTERNO,Planeación,Esquemas viales; Obligaciones urbanisticas,INTERNO,Infraestructura,F2
+INTERNO,Administrativo,Certificación calidad del bien,INTERNO,Infraestructura,F2
+INTERNO,Hacienda,"Inventario de bienes muebles e inmuebles, Inventario de suministros, Valor del presupuesto por dependencia , Mapa de riesgos del proceso de contratación ",INTERNO,Control Interno,F2
+INTERNO,General,Cantidad de informes realizaron sobre las quejas y reclamos atendidas; sistema tecnológico para otorgar citas de manera automática; dependencias que asistieron y/o participaron en al menos 1 audiencia de rendición de cuentas; Medios de convocatoria a la audiencia de rendición de cuentas; medios para difusión de la audiencia de rendición de cuentas,INTERNO,Control Interno,F2
+INTERNO,Administrativo,"Por cada dependencia: Plan anual de vacantes, capacitaciones al personal por nivel, cantidad de funcionarios seleccionados por cada modalidad, evaluaciones de desempeño, evaluaciones de desempeño realizadas en las dependencias que tuvieron efectos prácticos sobre los siguientes aspectos: promociones, ascensos, incentivos, despidos, aplicación de las evaluaciones de desempeño, acuerdos de gestión, evaluaciones a los acuerdos de gestión, registro y control de las declaraciones de bienes y rentas en dirección de desarrollo administrativo ",INTERNO,Control Interno,F2
+INTERNO,Planeación,Evaluación del sistema de control interno y sitios de publicación del informe evaluación del sistema de control interno por dependencia,INTERNO,Control Interno,F2
+INTERNO,Jurídica,Monto de los pagos por sentencias y conciliaciones en controversias contractuales,INTERNO,Control Interno,F2
+INTERNO,Hacienda,Predial ,INTERNO,Hacienda,F2
+INTERNO,Hacienda,"Administracion del PAC (informacion referente a presupuesto, recaudos, las adiciones y reduciones presupuestales, recaudo rentas)",INTERNO,Hacienda,F2
+INTERNO,Hacienda,"Inversiones ( informacion referente a tasas , calificaciones de riesgo y costos bancarios)",INTERNO,Hacienda,F2
+INTERNO,Planeación,"estratificación por comuna, barrio y manzana",INTERNO,Hacienda,F2
+INTERNO,Planeación,"Cali en cifras, planes de desarrollo cultura",INTERNO,Cultura y turismo,F2
+INTERNO,Bienestar,juntas de accion comunal ,INTERNO,Cultura y turismo,F2
+INTERNO,Todas las Dependencias,Consolidado por dependencia de la encuesta de satisfacción del usuario,INTERNO,General,F2
+INTERNO,Educación,cuantas horas extras mensualmente se esta pagando y a cuantos docentes por institucion,INTERNO,Educación,F2
+INTERNO,Planeación,Indicadores plan de desarrollo municipal,INTERNO,Educación,F2
+INTERNO,Educación,Indicadores del plan sectorial de educacion nacional y del plan sectorial de educacion municipal,INTERNO,Educación,F2
+INTERNO,Hacienda,Ejecución del Presupuesto en el SAP,INTERNO,Salud,F2
+INTERNO,Planeación,mapas y georeferenciación,INTERNO,Salud,F2
+INTERNO,Planeación,"Intervención de zonas verdes y espacio públicos         
+         ",INTERNO,Dagma,F2
+INTERNO,Administrativo,"Intervención de zonas verdes y espacio públicos         
+         ",INTERNO,Dagma,F2
+INTERNO,Salud,Inversión Pública en Salud,INTERNO,Planeación,F2
+INTERNO,Administrativo,"Nómina del Concejo de Cali, Personería y Controlaría",INTERNO,Planeación,F2
+INTERNO,Planeación,Tráfico promedio Diario = Demanda de la Malla Vial,INTERNO,Tránsito,F2
+INTERNO,Planeación,Características Poblacionales,INTERNO,Tránsito,F2
+INTERNO,Gobierno,Estadística de morbimortalidad por accidente de Tránsito. ,INTERNO,Tránsito,F2
+INTERNO,Tránsito,"Indicadores de  Accidentalidad (daños, lesiones y homicidios).",INTERNO,Tránsito,F2
+INTERNO,Tránsito,Indicadores de Movilidad (tiempo de desplazamiento por corredores viales). ,INTERNO,Tránsito,F2
+INTERNO,Tránsito,Indicadores de Impacto a nivel de educación y pedagogía (capacitación). ,INTERNO,Tránsito,F2
+INTERNO,Dagma,CENSO de puntos críticos de escombro u otros residuos,INTERNO,Planeación,F2
+INTERNO,Dagma,Análisis ambiental (Para el POT),INTERNO,Planeación,F2
+INTERNO,Planeación,Análisis ambiental (Para el POT),INTERNO,Planeación,F2
+INTERNO,Bienestar,Análisis ambiental (Para el POT),INTERNO,Planeación,F2
+INTERNO,Salud,Análisis de la información de Servicios Públicos,INTERNO,Planeación,F2
+INTERNO,Educación, Anáilisis de equipaiento dotacionales,INTERNO,Planeación,F2
+INTERNO,Salud, Anáilisis de equipaiento dotacionales,INTERNO,Planeación,F2
+INTERNO,Cultura y turismo, Anáilisis de equipaiento dotacionales,INTERNO,Planeación,F2
+INTERNO,Deporte, Anáilisis de equipaiento dotacionales,INTERNO,Planeación,F2
+INTERNO,Gobierno, Anáilisis de equipaiento dotacionales,INTERNO,Planeación,F2
+INTERNO,Bienestar, Anáilisis de equipaiento dotacionales,INTERNO,Planeación,F2
+INTERNO,Planeación, Analisis de movilidad,INTERNO,Planeación,F2
+INTERNO,Infraestructura, Analisis de movilidad,INTERNO,Planeación,F2
+INTERNO,Planeación,Análisis socioeconómico,INTERNO,Planeación,F2
+INTERNO,Hacienda,Análisis socioeconómico,INTERNO,Planeación,F2
+INTERNO,Salud,"Estadísticas del Programa Municipal de atención a victimas         
+         ",INTERNO,General,F2
+INTERNO,General,"Estadísticas del Programa Municipal de atención a victimas         
+         ",INTERNO,General,F2
+INTERNO,Educación,"Análisis de la evaluación de los estudiantes         
+         ",INTERNO,Educación,F2
+INTERNO,Educación,"Análisis Evaluación de desempeño de los docentes        
+        ",INTERNO,Educación,F2
+INTERNO,Educación,"Elaboración de la Caracterización del perfil educativo         
+         ",INTERNO,Educación,F2
+INTERNO,Educación,Informacion sobre la poblacion estudiantil y sobre la matricula en las instituciones educativas,INTERNO,Educación,F2
+MINISTERIO,MinVivienda,Normativas sobre bienes de interés cultural,INTERNO,Planeación,F2
+MINISTERIO,MinTrabajo,Ninguno en actividad perjudicial,INTERNO,Bienestar,F2
+MINISTERIO,MinCIT,Infraestructura Turística y proyecciones turísticas del país,INTERNO,Cultura y turismo,F2
+MINISTERIO,MinEducación,"informacion de docentes , seguridad social, salud ocupacional ; ausencias ",INTERNO,Educación,F2
+MINISTERIO,MinSalud,RUAF,INTERNO,Salud,F2
+MINISTERIO,MinSalud,Población y lineamientos de cobertura,INTERNO,Salud,F2
+OTRO_EXTERNO,Lonja de Propiedad Raiz,"Indicadores del Modelo de Ordenamiento Territorial = son indicadores que miden el estado actual del territorio; su objetivo es seguir el ordenamiento territorial de la ciudad; variables de infraestructura, servicios públicos, natalidad, mortalidad, salud, educación.",INTERNO,Planeación,F2
+OTRO_EXTERNO,Camacol,"Indicadores del Modelo de Ordenamiento Territorial = son indicadores que miden el estado actual del territorio; su objetivo es seguir el ordenamiento territorial de la ciudad; variables de infraestructura, servicios públicos, natalidad, mortalidad, salud, educación.",INTERNO,Planeación,F2
+OTRO_EXTERNO,Curadurias,"Indicadores del Modelo de Ordenamiento Territorial = son indicadores que miden el estado actual del territorio; su objetivo es seguir el ordenamiento territorial de la ciudad; variables de infraestructura, servicios públicos, natalidad, mortalidad, salud, educación.",INTERNO,Planeación,F2
+OTRO_EXTERNO,EMPRRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS,"Servios publicos domiciliarios de acueducto, alcaltarillado y aseo",INTERNO,Planeación,F2
+OTRO_EXTERNO,Metrocali,Volumenes vehículares = numero de vehículos que pasan por una vía en un tiempo determinado,INTERNO,Planeación,F2
+OTRO_EXTERNO,EMCALI,Factibiliad de servicios públicos,INTERNO,Planeación,F2
+OTRO_EXTERNO,Metrocali,Normativas,INTERNO,Planeación,F2
+OTRO_EXTERNO,EMCALI,Estudios técnicos o físicos,INTERNO,Gobierno,F2
+OTRO_EXTERNO,Policía,Flagrancias,INTERNO,Gobierno,F2
+OTRO_EXTERNO,Policía,Hurtos Denunciados,INTERNO,Gobierno,F2
+OTRO_EXTERNO,Policía,Armas Incautadas,INTERNO,Gobierno,F2
+OTRO_EXTERNO,Policía,Estupefacientes incautados,INTERNO,Gobierno,F2
+OTRO_EXTERNO,Medicina Legal,Actas de necropsias,INTERNO,Gobierno,F2
+OTRO_EXTERNO,Policía,Boletin Diario de Policia ,INTERNO,Gobierno,F2
+OTRO_EXTERNO,Centro de Diagnóstico Automotor del Valle,Estadísticas de accidentalidad; comparendos; registro automotor,INTERNO,Control Disciplinario,F2
+OTRO_EXTERNO,Medicina Legal,Estadísticas de víctimas ,INTERNO,Tránsito,F2
+OTRO_EXTERNO,Fondo de prevención vial,"Informe anual de accidentalidad vial por ciudades, áreas geográficas",INTERNO,Tránsito,F2
+OTRO_EXTERNO,EMCALI,Recaudo Servicios Públicos de EMCALI en los C.A.L.I.S,INTERNO,Bienestar,F2
+OTRO_EXTERNO,Secretaría Departamental de Salud,Todos Saludables,INTERNO,Bienestar,F2
+OTRO_EXTERNO,EMCALI,Todos Saludables,INTERNO,Bienestar,F2
+OTRO_EXTERNO,ICBF,Ninguno sin Familia,INTERNO,Bienestar,F2
+OTRO_EXTERNO,Policía,Ninguno sin Familia,INTERNO,Bienestar,F2
+OTRO_EXTERNO,ICBF,Ninguno desnutrido,INTERNO,Bienestar,F2
+OTRO_EXTERNO,Notaria,Ninguno sin registro,INTERNO,Bienestar,F2
+OTRO_EXTERNO,Instiruciones integrados al bienestar familiar,"Ninguno maltratado, abusado o víctima del conflicto interno generado por grupos al margen de la ley",INTERNO,Bienestar,F2
+OTRO_EXTERNO,Policía,Ninguno en actividad perjudicial,INTERNO,Bienestar,F2
+OTRO_EXTERNO,ICBF,Adolescentes acusados de violar la ley penal con su debido proceso,INTERNO,Bienestar,F2
+OTRO_EXTERNO,Policía,Adolescentes acusados de violar la ley penal con su debido proceso,INTERNO,Bienestar,F2
+OTRO_EXTERNO,Sena,Numero de adolescentes de 12- 17 y jovenes 14- 28 que participan en programas de orientaciób y insercion laboral y capacitacion parar el trabajo,INTERNO,Bienestar,F2
+OTRO_EXTERNO,EMCALI,Certificación acerca del estado en que se encuentran las redes de acueducto y alcantarillado en los tramos viales,INTERNO,Infraestructura,F2
+OTRO_EXTERNO,Cámara de Comercio,actividad economica,INTERNO,Hacienda,F2
+OTRO_EXTERNO,Cámara de Comercio,objeto economico o social,INTERNO,Hacienda,F2
+OTRO_EXTERNO,Bancos,"Administracion del PAC (informacion referente a presupuesto, recaudos, las adiciones y reduciones presupuestales, recaudo rentas)",INTERNO,Hacienda,F2
+OTRO_EXTERNO,Bancos,"Inversiones ( informacion referente a tasas , calificaciones de riesgo y costos bancarios)",INTERNO,Hacienda,F2
+OTRO_EXTERNO,Proexport,Informe Estadístico de proexport,INTERNO,Cultura y turismo,F2
+OTRO_EXTERNO,OMT (organización Mundial del turismo),Comportamiento del turismo mundial,INTERNO,Cultura y turismo,F2
+OTRO_EXTERNO,COTELCO,"Estadísticas gremio del turismo (consumo , crecimiento económico de los gremios)",INTERNO,Cultura y turismo,F2
+OTRO_EXTERNO,COTELVALLE,"Estadísticas gremio del turismo (consumo , crecimiento económico de los gremios)",INTERNO,Cultura y turismo,F2
+OTRO_EXTERNO,ANATO,"Estadísticas gremio del turismo (consumo , crecimiento económico de los gremios)",INTERNO,Cultura y turismo,F2
+OTRO_EXTERNO,ACODRES,"Estadísticas gremio del turismo (consumo , crecimiento económico de los gremios)",INTERNO,Cultura y turismo,F2
+OTRO_EXTERNO,Banco de la República,DTF: Tasa de Deposito a termino Fijo ( 90 dias),INTERNO,Educación,F2
+OTRO_EXTERNO,Cosmited,incapacidades ; accidentes laborales,INTERNO,Educación,F2
+OTRO_EXTERNO,EPS,incapacidades y accidentes laborales,INTERNO,Educación,F2
+OTRO_EXTERNO,fidoprevisora,informacion de prestaciones sociales ; afiliaciones docentes,INTERNO,Educación,F2
+OTRO_EXTERNO,Instituciones Educativas,numero de horas extras que se solita por cada institucion educativa,INTERNO,Educación,F2
+OTRO_EXTERNO,IDEAM,información hidroclimatológica,INTERNO,Salud,F2
+OTRO_EXTERNO,IPS,RIPS,INTERNO,Salud,F2
+OTRO_EXTERNO,ESE,Reporte de Referencia y Contrareferncia a las Empresas Sociales del Estado Nivel 1,INTERNO,Salud,F2
+OTRO_EXTERNO,EMCALI,Autodeclaración de vertimientos,INTERNO,Dagma,F2
+OTRO_EXTERNO,EMCALI,Conexiones erradas identificadas y corregidas,INTERNO,Dagma,F2
+OTRO_EXTERNO,EMCALI,Inversión  en acueducto y alcantarillado de Emcali,INTERNO,Planeación,F2
+OTRO_EXTERNO,Concejo de Cali,"Nómina del Concejo de Cali, Personería y Controlaría",INTERNO,Planeación,F2
+OTRO_EXTERNO,Centro de Diagnóstico Automotor del Valle,Datos relacionados con los  accidentes de tránsito,INTERNO,Tránsito,F2
+OTRO_EXTERNO,Centro de Diagnóstico Automotor del Valle,"Datos relacionados con lo infractores a las normas de tránsito, específicamente los que hacen el curso.",INTERNO,Tránsito,F2
+OTRO_EXTERNO,Instituto Nacional de Medicina Legal y Ciencias Forenses,Estadística de morbimortalidad por accidente de Tránsito. ,INTERNO,Tránsito,F2
+OTRO_EXTERNO,ENSIRVA,Reporte de los Operadores de Servicios de Aseo sobre la prestación del Servicio. Semestral y Anual,INTERNO,Planeación,F2
+OTRO_EXTERNO,EMCALI,Análisis de la información de Servicios Públicos,INTERNO,Planeación,F2
+OTRO_EXTERNO,EMPRRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS,Análisis de la información de Servicios Públicos,INTERNO,Planeación,F2
+OTRO_EXTERNO,empresas recolectoras de residuos solidos (Ciudad limpia,Análisis de la información de Servicios Públicos,INTERNO,Planeación,F2
+OTRO_EXTERNO,promoambiental,Análisis de la información de Servicios Públicos,INTERNO,Planeación,F2
+OTRO_EXTERNO,Metrocali, Analisis de movilidad,INTERNO,Planeación,F2
+OTRO_EXTERNO,Cámara de Comercio,Análisis socioeconómico,INTERNO,Planeación,F2
+OTRO_EXTERNO,Camacol,Análisis socioeconómico,INTERNO,Planeación,F2
+OTRO_EXTERNO,Curadurias,Análisis socioeconómico,INTERNO,Planeación,F2
+OTRO_EXTERNO,Lonja de Propiedad Raiz,Análisis socioeconómico,INTERNO,Planeación,F2
+OTRO_EXTERNO,ICFES,"Pruebas saber 3,5,9,11",INTERNO,Planeación,F2
+UNIDAD_ESPECIAL,Unidad Administrativa Especial Sistema de Parques Nacionales Naturales (UAESPNN),Análisis ambiental (Para el POT),INTERNO,Planeación,F2
+UNIDAD_ESPECIAL,Unidad para la Atención y la Reparación Integral a las Víctimas.,"Estadísticas del Programa Municipal de atención a victimas         
+         ",INTERNO,General,F2
